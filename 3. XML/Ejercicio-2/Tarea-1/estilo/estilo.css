@@ -1,0 +1,100 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+Documento que contiene el estilo
+(fuente, tamaño, color, etc) de 
+los diferentes html que forman la
+pagina
+***********************************/
+/*Selector Specificity: (0, 0, 1)*/
+body {
+  /*color por defecto*/
+  background-color: rgb(138, 138, 138);   
+  font: 1.025em Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 1em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+header, main {
+  /*color hereda de body*/
+  background-color: rgb(185, 185, 185);
+  border-radius: 1em;  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+section {
+  /*color hereda de main*/
+  background-color: rgb(255, 255, 255);
+  border-radius: 1em;  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h1 {
+  color: white;
+  background-color: rgb(20, 20, 20); 
+  font: 3em 'Courier New', Courier, monospace;
+  border-color: rgb(133, 133, 133);
+  border-width: 0.1em;
+  border-style: solid;
+  border-radius: 0.45em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h2 {
+  color: white;
+  background-color: rgb(30, 30, 30);
+  border-color: rgb(133, 133, 133);
+  border-width: 0.15em;
+  border-style: solid;
+  border-radius: 0.6em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h3 {
+  color: white;
+  background-color: rgb(40, 40, 40);    
+  border-radius: 0.75em;
+  border-color: rgb(133, 133, 133);
+  border-width: 0.2em;
+  border-style: solid;  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h4 {
+  color:white;
+  background-color:rgb(50, 50, 50);
+  border-radius: 0.75em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h5 {
+  color:white;
+  background-color:rgb(60, 60, 60);
+  font-size: 0.9em;
+  border-radius: 0.75em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h6 {
+  color: white;
+  background-color:rgb(70, 70, 70);
+  border-radius: 0.75em;
+  font-weight: bold;
+  font-size: 0.85em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+img {
+  border-radius: 0.875em;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+a {
+  color:rgb(0, 41, 82);
+  /*background-color hereda de main*/  
+}
+
+/*Selector Specificity: (0, 1, 2)*/
+a:hover{
+  color: rgb(140, 0, 0);
+  /*background-color hereda de main*/
+}

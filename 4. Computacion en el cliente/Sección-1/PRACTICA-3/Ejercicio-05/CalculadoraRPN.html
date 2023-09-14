@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTMl realizado para la Tarea 1 del Ejercicio 5 de Computación en el cliente" />
+	<meta name ="keywords" content ="html, css, ecmascript, javascript, calculadora RPN" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+    <title>Calculadora RPN</title>   
+    <link rel="stylesheet" type="text/css" href="CalculadoraRPN.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->
+    <header>
+        <h1>Calculadora RPN</h1>
+    </header>  
+    <main>
+        <section>
+            <h2>HP</h2>
+            <label for="pila">Prime Graphing Calculator</label>
+            <textarea id="pila" readonly></textarea>
+            <label for="valores">Valor introducido</label>  
+            <input type="text" value="0" id="valores" readonly>
+            
+            <input type="button" value="DEG" onclick="calculadora.deg()">
+            <input type="button" value="sin" onclick="calculadora.sin()" />
+            <input type="button" value="cos" onclick="calculadora.cos()" />
+            <input type="button" value="tan" onclick="calculadora.tan()" />
+            <input type="button" value="x^2" onclick="calculadora.cuadrado()" />
+            <input type="button" value="log" onclick="calculadora.log()" />            
+                        
+            <input type="button" value="↑" onclick="calculadora.shift()" />            
+            <input type="button" value="√" onclick="calculadora.raizCuadrada()">            
+            <input type="button" value="10^x" onclick="calculadora.potenciaDeDiez()" />            
+            <input type="button" value="n!" onclick="calculadora.factorial()">
+            <input type="button" value="x^y" onclick="calculadora.potencia()" />
+            <input type="button" value="ln" onclick="calculadora.ln()" />
+
+            <input type="button" value="±" onclick="calculadora.cambioDeSigno()">
+            <input type="button" value="CE" onclick="calculadora.borrar()" />
+            <input type="button" value="C" onclick="calculadora.borrarTodo()" />	
+            <input type="button" value="⌫" onclick="calculadora.borrarIzquierda()" />
+            <input type="button" value="Enter" onclick="calculadora.enter()">
+        </section>
+		
+        <input type="button" value="7" onclick="calculadora.digitos(7)">
+        <input type="button" value="8" onclick="calculadora.digitos(8)">
+        <input type="button" value="9" onclick="calculadora.digitos(9)">        
+        <input type="button" value="÷" onclick="calculadora.division()">
+
+        <input type="button" value="4" onclick="calculadora.digitos(4)">
+        <input type="button" value="5" onclick="calculadora.digitos(5)">
+        <input type="button" value="6" onclick="calculadora.digitos(6)">
+        <input type="button" value="x" onclick="calculadora.multiplicacion()">
+        
+        <input type="button" value="1" onclick="calculadora.digitos(1)">
+        <input type="button" value="2" onclick="calculadora.digitos(2)">
+        <input type="button" value="3" onclick="calculadora.digitos(3)">
+        <input type="button" value="+" onclick="calculadora.suma()">
+
+        <input type="button" value="0" onclick="calculadora.digitos(0)">
+        <input type="button" value="." onclick="calculadora.punto()">
+        <input type="button" value="-" onclick="calculadora.resta()">        
+    </main>
+    <script src="CalculadoraRPN.js"></script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTMl realizado para la Tarea 1 del Ejercicio 14 de Computación en el cliente" />
+	<meta name ="keywords" content ="html, css, javascript, ecmascript, api, reproductor, multimedia" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" /> 
+    <title>Ejercicio 14</title>    
+    <link rel="stylesheet" type="text/css" href="Ejercicio14.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->
+    <header>
+        <img src = "multimedia/logo.png" alt="Logo del reproductor de la izquierda"/>
+        <h1>BATPLAYER</h1>
+        <img src = "multimedia/logo.png" alt="Logo del reproductor de la derecha"/>
+    </header>    
+    <main>
+        <label for="file">Cargue sus archivos:</label>
+        <input id="file" type="file" onchange="player.addToPlayList()" multiple/>
+        <section>
+            <h2>Tus playlists:</h2>
+            <label for="general">General:
+                <select id="general" onchange="player.updatePlaylist(); player.updateIndex(); player.isFavourite();" ondblclick="player.playOrPause()" multiple>
+                </select>
+            </label>
+            <label for="favoritas">Favoritas:
+                <select id="favoritas" onchange="player.updateFavourites(); player.updateIndex(); " ondblclick="player.playOrPause()" multiple>
+                </select>
+            </label>
+        </section>        
+    </main>
+    <footer>
+        <input type="button" value="🕪" onclick="player.muteOrUnmute()"/>
+        <input type="button" value="◼" onclick="player.stop()"/>
+        <input type="button" value="|◀◀" onclick="player.previous()"/>
+        <input type="button" value="▶" onclick="player.playOrPause()"/>        
+        <input type="button" value="▶▶|" onclick="player.next()"/>
+        <input type="button" value="♥" onclick="player.toggleToFavourite()"/>
+        <input type="button" value="✖" onclick="player.clearFavourites()"/>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>    
+    <script src="Ejercicio14.js"></script>
+</body>
+</html>

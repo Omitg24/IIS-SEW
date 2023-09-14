@@ -1,0 +1,28 @@
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.exe
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.deps.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.runtimeconfig.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.runtimeconfig.dev.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.csproj.AssemblyReference.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.AssemblyInfoInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.AssemblyInfo.cs
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.csproj.CoreCompileInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.genruntimeconfig.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.exe
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.deps.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.runtimeconfig.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.runtimeconfig.dev.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\bin\Release\netcoreapp3.1\xml2html.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.csproj.AssemblyReference.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.AssemblyInfoInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.AssemblyInfo.cs
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.csproj.CoreCompileInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2html\xml2html\obj\Release\netcoreapp3.1\xml2html.genruntimeconfig.cache

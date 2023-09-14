@@ -1,0 +1,21 @@
+<!ELEMENT persona (datos, (persona, persona, persona)?>
+<!ELEMENT datos (nombre, apellidos, fnacimiento, lnacimiento, lresidencia, fotografias, videos, comentario)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT fnacimiento (#PCDATA)>
+<!ELEMENT lnacimiento (lnombre, coordenadas)>
+<!ELEMENT lresidencia (lnombre, coordenadas)>
+<!ELEMENT fotografias (fotografia)+>
+<!ELEMENT videos (video)*>
+<!ELEMENT comentario (#PCDATA)>
+<!ELEMENT fotografia (enlace)>
+<!ELEMENT video (enlace)>
+<!ELEMENT enlace (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT lnombre (#PCDATA)>
+<!ELEMENT coordenadas (longitud, latitud, altitud)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT altitud (#PCDATA)>
+<!ATTLIST fotografia descripcion CDATA>
+<!ATTLIST video descripcion CDATA>

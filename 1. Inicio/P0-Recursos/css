@@ -1,0 +1,16 @@
+/*Especificidad: 001*/
+body {
+  font-family: Tahoma, sans-serif;
+  color: #818181;
+  background-color: #fff;
+  }
+/*Especificidad: 001*/
+h1 {
+  color: #fff;    
+  background-color:#FF5733; 
+  text-transform: uppercase;
+  padding: 2em; 
+  text-align: center;     
+  }
+
+

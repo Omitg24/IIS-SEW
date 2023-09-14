@@ -1,0 +1,28 @@
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.exe
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.deps.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.runtimeconfig.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.runtimeconfig.dev.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.csproj.AssemblyReference.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.AssemblyInfoInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.AssemblyInfo.cs
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.csproj.CoreCompileInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.genruntimeconfig.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.exe
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.deps.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.runtimeconfig.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.runtimeconfig.dev.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\bin\Debug\netcoreapp3.1\xml2kml.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.csproj.AssemblyReference.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.AssemblyInfoInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.AssemblyInfo.cs
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.csproj.CoreCompileInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2kml\xml2kml\obj\Debug\netcoreapp3.1\xml2kml.genruntimeconfig.cache

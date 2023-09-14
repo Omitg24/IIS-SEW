@@ -1,0 +1,167 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTMl realizado para la Tarea 1 del Ejercicio 10 de Computación en el cliente" />
+	<meta name ="keywords" content ="html, css, javascript, ecmascript, xml, gasolina, octanos" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+    <title>Ejercicio 10</title>
+    <link rel="stylesheet" type="text/css" href="Ejercicio10.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->
+    <header>
+        <h1>Consultor de precios de gasolina 95.</h1>
+    </header>
+    <main>
+        <article>
+            <h2>Selectores de provincias o municipios de Asturias.</h2>
+            <p>Aquí podrá obtener un listado de diferentes datos sobre los 3 diferentes tipos de gasolina 95.</p>
+            <ul>
+                <li>Gasolina 95 E5.</li>
+                <li>Gasolina 95 E10.</li>
+                <li>Gasolina 95 E5 Premium.</li>
+            </ul>
+            <p>Para ello, puede elegir entre obtener los datos de una provincia, o de un municipio en concreto de Asturias, y, posteriormente, presionar uno de los botones que se encuentran más abajo, mostrando así, los datos de la opción elegida del selector para el carburante que se encuentra en el botón presionado.</p>
+            <p>Cabe mencionar, que por defecto (es decir, en caso de que no utilice los selectores), se mostrarán los datos para el municipio de Langreo, Asturias.</p>
+            <section>
+                <h3>Provincias.</h3>
+                <p><label for="provincia">Seleccione una provincia:</label></p>
+                <select id="provincia" onclick="consultor.actualizarProvincia()">
+                    <option value="">Elige Provincia</option>
+                    <option value="01">Álava/Araba</option>
+                    <option value="02">Albacete</option>
+                    <option value="03">Alicante</option>
+                    <option value="04">Almería</option>
+                    <option value="33">Asturias</option>
+                    <option value="05">Ávila</option>
+                    <option value="06">Badajoz</option>
+                    <option value="07">Baleares</option>
+                    <option value="08">Barcelona</option>
+                    <option value="09">Burgos</option>
+                    <option value="10">Cáceres</option>
+                    <option value="11">Cádiz</option>
+                    <option value="39">Cantabria</option>
+                    <option value="12">Castellón</option>
+                    <option value="51">Ceuta</option>
+                    <option value="13">Ciudad Real</option>
+                    <option value="14">Córdoba</option>
+                    <option value="16">Cuenca</option>
+                    <option value="17">Gerona/Girona</option>
+                    <option value="18">Granada</option>
+                    <option value="19">Guadalajara</option>
+                    <option value="20">Guipúzcoa/Gipuzkoa</option>
+                    <option value="21">Huelva</option>
+                    <option value="22">Huesca</option>
+                    <option value="23">Jaén</option>
+                    <option value="15">La Coruña/A Coruña</option>
+                    <option value="26">La Rioja</option>
+                    <option value="35">Las Palmas</option>
+                    <option value="24">León</option>
+                    <option value="25">Lérida/Lleida</option>
+                    <option value="27">Lugo</option>
+                    <option value="28">Madrid</option>
+                    <option value="29">Málaga</option>
+                    <option value="52">Melilla</option>
+                    <option value="30">Murcia</option>
+                    <option value="31">Navarra</option>
+                    <option value="32">Orense/Ourense</option>
+                    <option value="34">Palencia</option>
+                    <option value="36">Pontevedra</option>
+                    <option value="37">Salamanca</option>
+                    <option value="40">Segovia</option>
+                    <option value="41">Sevilla</option>
+                    <option value="42">Soria</option>
+                    <option value="43">Tarragona</option>
+                    <option value="38">Tenerife</option>
+                    <option value="44">Teruel</option>
+                    <option value="45">Toledo</option>
+                    <option value="46">Valencia</option>
+                    <option value="47">Valladolid</option>
+                    <option value="48">Vizcaya/Bizkaia</option>
+                    <option value="49">Zamora</option>
+                    <option value="50">Zaragoza</option>
+                </select>
+            </section>
+
+            <section>
+                <h3>Municipios de Asturias.</h3>
+                <p><label for="municipios">Seleccione un municipio de Asturias:</label></p>
+                <select id="municipios" onclick="consultor.actualizarMunicipio()">
+                    <option value="">Elige Municipio</option>
+                    <option value="4964">Allande</option>
+                    <option value="4965">Aller</option>
+                    <option value="4967">Avilés</option>
+                    <option value="4968">Belmonte de Miranda</option>
+                    <option value="4969">Bimenes</option>
+                    <option value="4970">Boal</option>
+                    <option value="4971">Cabrales</option>
+                    <option value="4974">Cangas de On&#237;s</option>
+                    <option value="4975">Cangas del Narcea</option>
+                    <option value="4977">Carreño</option>
+                    <option value="4979">Castrillón</option>
+                    <option value="4980">Castropol</option>
+                    <option value="4981">Coaña</option>
+                    <option value="4982">Colunga</option>
+                    <option value="4983">Corvera de Asturias</option>
+                    <option value="4984">Cudillero</option>
+                    <option value="4986">El Franco</option>
+                    <option value="4987">Gijón</option>
+                    <option value="4988">Gozón</option>
+                    <option value="4989">Grado</option>
+                    <option value="4990">Grandas de Salime</option>
+                    <option value="4991">Ibias</option>
+                    <option value="4994">Langreo</option>
+                    <option value="4995">Laviana</option>
+                    <option value="4996">Lena</option>
+                    <option value="4997">Llanera</option>
+                    <option value="4998">Llanes</option>
+                    <option value="4999">Mieres</option>
+                    <option value="5000">Morcín</option>
+                    <option value="5001">Muros de Nalón</option>
+                    <option value="5002">Nava</option>
+                    <option value="5003">Navia</option>
+                    <option value="5004">Noreña</option>
+                    <option value="5006">Oviedo</option>
+                    <option value="5009">Peñamellera Baja</option>
+                    <option value="5011">Piloña</option>
+                    <option value="5013">Pravia</option>
+                    <option value="5014">Proaza</option>
+                    <option value="5017">Ribadedeva</option>
+                    <option value="5018">Ribadesella</option>
+                    <option value="5019">Ribera de Arriba</option>
+                    <option value="5021">Salas</option>
+                    <option value="5022">San Martín de Oscos</option>
+                    <option value="5023">San Martín del Rey Aurelio</option>
+                    <option value="5024">San Tirso de Abres</option>
+                    <option value="5028">Siero</option>
+                    <option value="5029">Sobrescobio</option>
+                    <option value="5030">Somiedo</option>
+                    <option value="5031">Soto del Barco</option>
+                    <option value="5032">Tapia de Casariego</option>
+                    <option value="5034">Teverga</option>
+                    <option value="5035">Tineo</option>
+                    <option value="5036">Valdés</option>
+                    <option value="5037">Vegadeo</option>
+                    <option value="5038">Villanueva de Oscos</option>
+                    <option value="5039">Villaviciosa</option>
+                </select>
+            </section>
+        </article>
+
+        <article>
+            <h2>Mostrar precios por carburantes.</h2>
+            <p>Presione uno de los 3 botones inferiores para mostrar los datos correspondientes</p>
+            <input type="button" value="Gasolina 95 E5" onclick="consultor.seleccionarTipo(1)"/>
+            <input type="button" value="Gasolina 95 E10" onclick="consultor.seleccionarTipo(23)"/>
+            <input type="button" value="Gasolina 95 E5 Premium" onclick="consultor.seleccionarTipo(20)"/>
+        </article>
+    </main>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="Ejercicio10.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>SEW.P0</title>
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->
+    <h1>Primer sitio web</h1>
+    <p>¡Hola Mundo! Este es el primer sitio web adaptable y accesible desarrollado cumpliendo los estándares HTML5, CSS3. </p>
+</body>
+</html>

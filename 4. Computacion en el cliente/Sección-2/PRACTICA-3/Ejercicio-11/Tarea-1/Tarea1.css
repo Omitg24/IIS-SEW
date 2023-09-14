@@ -1,0 +1,84 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 1 del Ejercicio 11
+      de la práctica de 
+      Computación en la nube
+***********************************/
+body{
+  /*color por defecto*/
+  background-color: #ffbaba;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+main {
+  /*color hereda de body*/
+  background-color: #5c2222;   
+  border-radius: 1.5em;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+article {
+  /*color hereda de body*/
+  background-color: #8f3636;
+  border-radius: 1.5em;
+  border-width: 0.5em;
+  border-style: solid;
+  border-color: #606060;
+  padding: 2em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h1 {
+  font: 3em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h2 {
+  font: 2.5em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color : #cecece;
+  /*background-color hereda de header*/
+}
+
+/* Selector Specificity: (0, 0, 1) */
+p, label {
+  font: 1.25em Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 0.5em;
+  color : #cecece;
+  /*background-color hereda de header*/
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input, select {
+  font: 1.25em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color : #3c3c3c;
+  background-color: #d7d7d7;
+  border-radius: 0.75em;
+  padding: 0.45em;  
+  border-color: #778899;
+  border-width: 0.5em;
+}
+
+/* Selector Specificity: (0, 2, 1) */
+input[type="button"]:active {
+  /*color hereda de body*/
+  background-color: #d3d3d3;
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input:disabled{
+  /*color hereda de main*/
+  background-color:#d4d4d4;  
+}

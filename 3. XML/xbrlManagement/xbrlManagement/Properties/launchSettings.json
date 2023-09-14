@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "xbrlManagement": {
+      "commandName": "Project",
+      "commandLineArgs": "amazon_10k.xml"
+    }
+  }
+}

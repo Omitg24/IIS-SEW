@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDkbWLOFBuYkT6FXFM4emnJyCxRsITZXePIA0oR2xyKalKxmnEK0XKZ0zTfneBKwZ8HEhcscxpZMTYF/C2IBzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omart\\OneDrive\\Documentos\\Clase\\Tercero\\Primer_Semestre\\Software y Estandares para la Web\\Practicas\\3. XML\\xml2svg\\xml2svg\\xml2svg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omart\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

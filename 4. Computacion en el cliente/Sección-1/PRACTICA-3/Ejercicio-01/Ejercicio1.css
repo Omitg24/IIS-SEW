@@ -1,0 +1,33 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      el Ejercicio 1 de la 
+      práctica de Computación en
+      la nube
+***********************************/
+/* Especificidad 001*/
+body{
+  /*color por defecto*/
+  background-color:#d9d9d9;
+}
+/* Especificidad 001*/
+h1{
+  color: #500000;
+  /*background-color hereda de body*/
+}
+/* Especificidad 001*/
+h2{
+  color:#620000;
+  /*background-color hereda de body*/
+}
+/* Especificidad 001*/
+p{
+  color:#801414;
+  /*background-color hereda de body*/
+}
+/* Especificidad 001*/
+li{
+  color:#111111;
+  /*background-color hereda de body*/
+}

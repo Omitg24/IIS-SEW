@@ -1,0 +1,91 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 1 del Ejercicio 4
+      de la práctica de 
+      Computación en el servidor
+***********************************/
+body{
+  /*color por defecto*/
+  background-color: #ced2ff;  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+main {
+  /*color hereda de body*/
+  background-color: #001196; 
+  border-radius: 1.5em;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+section {
+  /*color hereda de main*/
+  background-color: #2d2566;
+  border-radius: 1.5em;
+  border-width: 0.5em;
+  border-color: #9e9e9e;
+  border-style: solid;
+  padding: 2em;  
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h1 {
+  font: 3em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h2 {
+  font: 2em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color : #ffffff;
+  /*background-color hereda de main*/
+}
+
+/* Selector Specificity: (0, 0, 1) */
+p, li, label {
+  font: 1.25em Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 0.5em;
+  color : #ffffff;
+  /*background-color hereda de article*/
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input, select {
+  font: 1.25em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color : #3c3c3c;
+  background-color: #d7d7d7;
+  border-radius: 0.75em;
+  padding: 0.45em;  
+  border-color: #778899;
+  border-width: 0.25em;
+}
+
+/* Selector Specificity: (0, 2, 1) */
+input:active, select:active {
+  /*color hereda de body*/
+  background-color: #f37b7b;
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input:disabled, select:disabled{
+  /*color hereda de main*/
+  background-color:#8e8e8e;  
+}

@@ -1,0 +1,97 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+Documento que contiene el estilo
+(fuente, tamaño, color, etc) de 
+los diferentes html que forman la
+pagina
+***********************************/
+/*Selector Specificity: (0, 0, 1)*/
+body {
+  /*color por defecto*/
+  background-color: gray;  
+  font: 1.025em Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 1em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+header, main, article, section {
+  /*color hereda de body*/
+  background-color: rgb(190, 190, 190);
+  border-radius: 1em;  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+footer, nav, h3 {
+  color: white;
+  background-color: rgb(147, 48, 48);    
+  border-radius: 0.75em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h1 {
+  color: white;
+  background-color: darkred;  
+  font: 3em 'Courier New', Courier, monospace;
+  border-color: rgb(0, 0, 0);
+  border-width: 0.1em;
+  border-style: solid;
+  border-radius: 0.45em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h2 {
+  color: white;
+  background-color: rgb(109, 16, 16);
+  border-color: rgb(0, 0, 0);
+  border-width: 0.15em;
+  border-style: solid;
+  border-radius: 0.6em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h3 {
+  border-color: rgb(0, 0, 0);
+  border-width: 0.2em;
+  border-style: solid;  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+figcaption{
+  font-style: italic;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+img, video, audio {
+  border-radius: 0.875em;
+}
+
+/* Selector Specificity: (0, 0, 2) */
+footer a, nav a  {    
+  color:white;    
+  /*background-color hereda de footer y nav respectivamente*/
+  font: 1.35em 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+/* Selector Specificity: (0, 0, 2) */
+nav a {
+  text-decoration: none;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+main a {
+  color:rgb(0, 41, 82);
+  /*background-color hereda de main*/  
+}
+
+/*Selector Specificity: (0, 1, 2)*/
+nav a:hover {
+  /*color hereda de nav a*/
+  background-color: rgb(85, 85, 85);
+  border-radius: 0.65em;
+}
+
+/*Selector Specificity: (0, 1, 2)*/
+footer a:hover{
+  color: rgb(255, 255, 120);
+  /*background-color hereda de footer*/
+}

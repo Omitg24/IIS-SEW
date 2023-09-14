@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTMl realizado para la Tarea 1 del Ejercicio 12 de Computación en el cliente" />
+	<meta name ="keywords" content ="html, css, javascript, ecmascript, xml, txt, json, lector" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" /> 
+    <title>Ejercicio 12</title>
+    <link rel="stylesheet" type="text/css" href="Ejercicio12.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->
+    <header>
+        <h1>Carga de archivos (TXT, JSON y XML)</h1>
+    </header>    
+    <main>
+        <p>Aquí podrá cargar 3 tipos archivos (txt, json y xml) y podrá ver sus tamaños y contenido, para ello, cargue los archivos que quiera seleccionando el botón inferior.</p>
+        <label for="file">Cargue sus archivos:</label>
+        <input id="file" type="file" onchange="lector.calcularTamañoArchivos(); lector.cargarFicheros();" multiple/>
+    </main>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="Ejercicio12.js"></script>
+</body>
+</html>

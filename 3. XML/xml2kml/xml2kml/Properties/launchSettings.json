@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "xml2kml": {
+      "commandName": "Project",
+      "commandLineArgs": "SocialNetwork.xml SocialNetwork.kml"
+    }
+  }
+}

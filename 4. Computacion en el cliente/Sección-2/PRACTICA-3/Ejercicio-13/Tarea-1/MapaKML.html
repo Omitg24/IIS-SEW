@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTMl realizado para la Tarea 1 del Ejercicio 13 de Computación en el cliente" />
+	<meta name ="keywords" content ="html, css, javascript, ecmascript, xml, mapa, kml" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" /> 
+    <title>Ejercicio 13 - Tarea 1</title>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="MapaKML.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->
+    <header>
+        <h1>Carga de archivo KML en mapa dinámico</h1>
+    </header>    
+    <main>
+        <p>Aquí podrá cargar un archivo KML y ver los marcadores en el mapa que se generará, para ello, cargue los archivos que quiera seleccionando el botón inferior.</p>
+        <p>Cabe mencionar que los marcadores en color rojo representan las coordenadas de nacimiento, mientras que los marcadores en color amarillo las de residencia.</p>
+        <label for="file">Cargue sus archivos:</label>
+        <input id="file" type="file" onchange="lector.cargarFicheros()" accept=".kml"/>
+    </main>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js"></script>
+    <script src="MapaKML.js"></script>
+</body>
+</html>

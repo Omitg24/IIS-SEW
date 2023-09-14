@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<xs:schema xmlns="http://tempuri.org/SocialNetwork" elementFormDefault="qualified" targetNamespace="http://tempuri.org/SocialNetwork" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="persona">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="datos" />
+				<xs:sequence minOccurs="0" maxOccurs="1">
+					<xs:element ref="persona" />
+					<xs:element ref="persona" />
+					<xs:element ref="persona" />
+				</xs:sequence>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="datos">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="nombre" />
+				<xs:element ref="apellidos" />
+				<xs:element ref="fnacimiento" />
+				<xs:element ref="lnacimiento" />
+				<xs:element ref="lresidencia" />
+				<xs:element ref="fotografias" />
+				<xs:element ref="videos" />
+				<xs:element ref="comentario" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="nombre" type="xs:string" />
+	<xs:element name="apellidos" type="xs:string" />
+	<xs:element name="fnacimiento" type="xs:string" />
+	<xs:element name="lnacimiento">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="lnombre" />
+				<xs:element ref="coordenadas" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="lresidencia">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="lnombre" />
+				<xs:element ref="coordenadas" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="fotografias">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="unbounded">
+				<xs:element ref="fotografia" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="videos">
+		<xs:complexType>
+			<xs:sequence minOccurs="0" maxOccurs="unbounded">
+				<xs:element ref="video" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="comentario" type="xs:string" />
+	<xs:element name="fotografia">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="enlace" />
+			</xs:sequence>
+			<xs:attribute default="" name="descripcion" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="video">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="enlace" />
+			</xs:sequence>
+			<xs:attribute default="" name="descripcion" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="enlace" type="xs:string" />
+	<xs:element name="descripcion" type="xs:string" />
+	<xs:element name="lnombre" type="xs:string" />
+	<xs:element name="coordenadas">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="longitud" />
+				<xs:element ref="latitud" />
+				<xs:element ref="altitud" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="longitud" type="xs:string" />
+	<xs:element name="latitud" type="xs:string" />
+	<xs:element name="altitud" type="xs:string" />
+</xs:schema>

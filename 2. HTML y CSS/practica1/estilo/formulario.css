@@ -1,0 +1,66 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+Documento que contiene el estilo
+(color, tamaño, bordes, etc) del 
+formulario presente en uno de los html
+de la página.
+***********************************/
+/*Selector Specificity: (0, 0, 1)*/
+form {
+  padding: 1em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+fieldset, legend {  
+  border: 0.15em;
+  border-radius: 1em;
+  border-style: solid;  
+  border-color: rgb(110, 16, 16);  
+  margin:0.25em;
+  padding: 0.5em;  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+input, textarea {
+  color:black;
+  background-color: rgb(198, 198, 198);    
+  font-size: 1.05em;
+  border-radius: 0.5em;
+  border-width: 0.15em;
+  border-style: solid;      
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+legend {
+  color: white;
+  background-color: rgb(134, 60, 60);  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+fieldset {
+  /*color hereda de body*/
+  background-color: rgb(174, 174, 174); 
+}
+
+/*Selector Specificity: (0, 1, 1)*/
+input[type="submit"] {
+  /*color hereda de body*/
+  background-color: rgb(174, 174, 174);
+  border: 0.15em;
+  border-radius: 1em;
+  border-style: solid;  
+  border-color: rgb(110, 16, 16);  
+  padding: 0.5em; 
+}
+
+/*Selector Specificity: (0, 1, 1)*/
+input:hover, textarea:hover{
+  /*color hereda de input y de textarea*/
+  background-color: rgb(156, 156, 156);
+  border-color: black;
+}
+
+/*Selector Specificity: (0, 1, 2)*/
+section p:nth-child(3){
+  font-style: italic;
+}

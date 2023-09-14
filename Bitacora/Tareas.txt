@@ -1,0 +1,38 @@
+Tanda 1:
+	Tarea 1: 42s - Tarea 2: 21s - Tarea 3: 83s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+	Tarea 1: 139s - Tarea 2: 88s - Tarea 3: 60s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+	Tarea 1: 158s - Tarea 2: 47s - Tarea 3: 97s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+	Tarea 1: 138s - Tarea 2: 10s - Tarea 3: 31s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+Tanda 2:
+	Tarea 1: 49s - Tarea 2: 16s - Tarea 3: 97s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+		
+	Tarea 1: 17s - Tarea 2: 7s - Tarea 3: 50s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+		
+	Tarea 1: 24s - Tarea 2: 10s - Tarea 3: 23s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+	Tarea 1: 38s - Tarea 2: 12s - Tarea 3: 45s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+Tanda 3:
+	Tarea 1: 38s - Tarea 2: 8s - Tarea 3: 25s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+	Tarea 1: 25s - Tarea 2: 9s - Tarea 3: 27s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si 
+	
+	Tarea 1: 22s - Tarea 2: 11s - Tarea 3: 30s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si
+	
+	Tarea 1: 45s - Tarea 2: 16s - Tarea 3: 22s
+	Tarea 1: Si - Tarea 2: Si - Tarea 3: Si

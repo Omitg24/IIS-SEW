@@ -1,0 +1,32 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 5 del Ejercicio 11
+      de la práctica de 
+      Computación en la nube
+***********************************/
+/* Selector Specificity: (0, 0, 1) */
+body{
+  /*color por defecto*/
+  background-color: #ffbaba;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+main {
+  /*color hereda de body*/
+  background-color: #763030;  
+  border-radius: 1.5em;
+  width:60vw; 
+  height:40vw;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h1 {
+  font: 3em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}

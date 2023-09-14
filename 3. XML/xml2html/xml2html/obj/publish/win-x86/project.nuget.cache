@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+JJCfBuktrp6lt1tzttW7uGblmRz3a1SmRztmDmw8Fy8diAGiPAP/PQFPu18645JZYmreBANq0ejYaK/VGn3g==",
+  "success": true,
+  "projectFilePath": "F:\\Ingenieria Informatica\\Tercero\\Primer_Semestre\\Software y Estandares para la Web\\Practicas\\3. XML\\xml2html\\xml2html\\xml2html.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omart\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.30\\microsoft.netcore.app.runtime.win-x86.3.1.30.nupkg.sha512",
+    "C:\\Users\\omart\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.30\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.30.nupkg.sha512",
+    "C:\\Users\\omart\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.30\\microsoft.aspnetcore.app.runtime.win-x86.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

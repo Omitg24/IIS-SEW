@@ -1,0 +1,28 @@
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.exe
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.deps.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.runtimeconfig.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.runtimeconfig.dev.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.csproj.AssemblyReference.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.AssemblyInfoInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.AssemblyInfo.cs
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.csproj.CoreCompileInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.genruntimeconfig.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.exe
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.deps.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.runtimeconfig.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.runtimeconfig.dev.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\bin\Debug\netcoreapp3.1\xbrlManagement.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.csproj.AssemblyReference.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.AssemblyInfoInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.AssemblyInfo.cs
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.csproj.CoreCompileInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xbrlManagement\xbrlManagement\obj\Debug\netcoreapp3.1\xbrlManagement.genruntimeconfig.cache

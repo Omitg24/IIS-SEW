@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMMJ9Yv74/lNpLPHI4qQIPuqvicjz/wyFRH/KPjwqbUGV7QaMM/dTt4OnIIhVqLcVTjr5Pj3ywqvTx53T5kHOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omart\\OneDrive\\Documentos\\Clase\\Tercero\\Primer_Semestre\\Software y Estandares para la Web\\Practicas\\3. XML\\xbrlManagement\\xbrlManagement\\xbrlManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omart\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

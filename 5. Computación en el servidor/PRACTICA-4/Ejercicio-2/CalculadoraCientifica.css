@@ -1,0 +1,106 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 2 del Ejercicio 2
+      de la práctica de 
+      Computación en el servidor
+***********************************/
+/* Selector Specificity: (0, 0, 1) */
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+form {
+  /*color hereda de body*/
+  background-color: #b6b6b6; 
+  padding: 0.9em;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.3em; 
+}
+
+/* Selector Specificity: (0, 0, 1) */
+section {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-column: span 5;
+  gap: 0.6em; 
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h1 {
+  font: 3em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h2 {
+  font: 1.35em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  margin-left: 1em;
+  grid-column: span 6;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+label {
+  font: 1.35em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: right;
+  grid-column: span 5;
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input[type="text"] {
+  font: 3.5em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: right;
+  color : #3c3c3c;
+  background-color: #b6b6b6; 
+  border: none;
+  grid-column: span 5;
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input[type="submit"] {
+  font-size: 1.1em;  
+  padding: 1.5em;  
+  border: none;
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input:disabled, textarea:disabled{
+  color:#ffffff;
+  /*background-color hereda de form*/
+}
+
+/* Selector Specificity: (0, 1, 2) */
+section input[type="submit"] {
+  /*color hereda de body*/
+  background-color: #b6b6b6; 
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 2, 1) */
+input[type="submit"][value="0"],
+input[type="submit"][value="1"],
+input[type="submit"][value="2"],
+input[type="submit"][value="3"],
+input[type="submit"][value="4"],
+input[type="submit"][value="5"],
+input[type="submit"][value="6"],
+input[type="submit"][value="7"],
+input[type="submit"][value="8"],
+input[type="submit"][value="9"] {
+  font-size: 1.4em;  
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 3, 1) */
+input[type="submit"]:enabled:hover {
+  /*color hereda de body*/
+  background-color: #d3d3d3;
+}

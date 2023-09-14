@@ -1,0 +1,183 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 1 del Ejercicio 7
+      de la práctica de 
+      Computación en el servidor
+***********************************/
+/*Selector Specificity: (0, 0, 1)*/
+body{  
+  font: 1em Verdana, Geneva, Tahoma, sans-serif;
+  /*color por defecto*/
+  background-color: #ced2ff;  
+  display: flex;  
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;  
+  gap: 1em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+header {
+  /*color hereda de body*/
+  background-color: #3a3a95;
+  padding: 1em;
+  border-radius: 1em;
+  display: flex;  
+  flex-direction: column;
+  align-items: center;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+main {
+  /*color hereda de body*/
+  background-color: #3a3a95;
+  padding: 1em;
+  border-radius: 1em;  
+  display: grid;
+  gap: 1em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+nav {
+  color: #ffffff;
+  background-color: #000046;
+  padding: 1em;
+  border-radius: 1em;
+  border-color: #9b9b9b;
+  border-width: 0.25em;
+  border-style: solid;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+article {
+  /*color hereda de main*/
+  background-color: #00002e;
+  padding: 1em;
+  border-radius: 1em;
+  border-color: #9b9b9b;
+  border-width: 0.25em;
+  border-style: solid;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+section {
+  /*color hereda de main*/
+  background-color: #000046;
+  padding: 1em;
+  border-radius: 1em;
+  border-color: #9b9b9b;
+  border-width: 0.25em;
+  border-style: solid;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+aside {
+  display: flex;  
+  flex-direction: column;
+  gap: 1em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+form {
+  padding: 1em;
+  display: grid;  
+  gap: 0.75em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+fieldset {
+  padding: 1em;
+  border-radius: 0.5em;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.25em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h1 {
+  font: 3em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: #ffffff;
+  /*background-color hereda de header*/
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h2 {
+  font-size: 1.5em;
+  color: #ffffff;
+  /*background-color hereda de main*/
+  text-align: center;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h3 {
+  font-size: 1.25em;
+  color: #ffffff;
+  /*background-color hereda de article*/
+  text-align: center;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h4 {
+  font-size: 1.15em;
+  color: #ffffff;
+  /*background-color hereda de section*/
+  text-align: center;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+pre, legend {
+  font: 1.25em Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 0.5em;
+  color : #ffffff;
+  /*background-color hereda de article*/
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+p, label {
+  font-size: 1em;
+  margin-right: 0.5em;
+  color : #ffffff;
+  /*background-color hereda de article*/
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+input, textarea {
+  font: 1.25em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color : #000000;
+  background-color: #f8f8f8;
+  border-radius: 0.75em;
+  padding: 0.45em;  
+  border-color: #6783ff;
+  border-width: 0.25em;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+a {
+  color:#ffffff;
+  /*background-color hereda de header*/
+  font: 1.35em 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  padding: 0.55em;
+  text-decoration: none;
+}
+
+/*Selector Specificity: (0, 1, 2)*/
+a:hover {
+  color:#000000;
+  background-color: #c5c5c5;
+  border-radius: 0.65em;
+}

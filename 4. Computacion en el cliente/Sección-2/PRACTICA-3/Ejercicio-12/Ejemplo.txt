@@ -1,0 +1,375 @@
+Nombre: Omar
+Apellidos: Teixeira González
+FNacimiento: 2002-03-24
+LNacimiento:
+    LNombre: Oviedo
+    Coordenadas:
+        Longitud: 43.356923
+        Latitud: -5.867880
+        Altitud: 242
+LResidencia:
+    LNombre: Madrid
+    Coordenadas:
+        Longitud: 40.4253205
+        Latitud: -3.7127347
+        Altitud: 205
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Omar sobre Husky adulto
+        Enlace: husky_adulto.png
+    Fotografía:
+        Descripción: Foto de portada de Omar sobre Golden retriever cachorro
+        Enlace: golden_cachorro.png
+    Fotografía:
+        Descripción: Foto de muestra de Omar sobre Husky cachorro
+        Enlace: husky_cachorro.png
+    Fotografía:
+        Descripción: Foto de anexo de Omar sobre Golden retriever adulto
+        Enlace: golden_adulto.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Omar sobre  husky cachorro aullando
+        Enlace: https://www.youtube.com/shorts/WTpyXOKXoN0
+    Vídeo:
+        Descripción: Video de Omar sobre  Golden retrievers
+        Enlace: https://www.youtube.com/shorts/FVz9IiBqlgY
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: Alba
+Apellidos: Francos Ablanedo
+FNacimiento: 2002-06-14
+LNacimiento:
+    LNombre: Oviedo
+    Coordenadas:
+        Longitud: 43.356923
+        Latitud: -5.867880
+        Altitud: 242
+LResidencia:
+    LNombre: Madrid
+    Coordenadas:
+        Longitud: 40.4253205
+        Latitud: -3.7127347
+        Altitud: 205
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Alba sobre Samoyedo
+        Enlace: samoyedo.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Alba sobre Samoyedo
+        Enlace: https://www.youtube.com/shorts/zbFU91cFTjk
+    Vídeo:
+        Descripción: Video de Alba sobre Samoyedo feliz
+        Enlace: https://www.youtube.com/shorts/zT6bNYBxyFs
+Comentario: Estudiante de Logopedia
+
+Nombre: Raúl
+Apellidos: Fernández España
+FNacimiento: 2001-04-10
+LNacimiento:
+    LNombre: Pola de Laviana
+    Coordenadas:
+        Longitud: 43.252652
+        Latitud: -5.574053
+        Altitud: 285
+LResidencia:
+    LNombre: Valencia
+    Coordenadas:
+        Longitud: 39.4077643
+        Latitud: -0.4315506
+        Altitud: 285
+Fotografías:
+    Fotografía: 
+        Descripción: Foto de perfil de Raúl sobre eucalipto
+        Enlace: eucalipto.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Raúl sobre como cuidar eucaliptos
+        Enlace: https://www.youtube.com/watch?v=nbfLumrZhm4
+    Vídeo:
+        Descripción: Video de Raúl sobre como cuidar eucaliptos en interior
+        Enlace: https://www.youtube.com/watch?v=b5E1hko05t4
+    Vídeo:
+        Descripción: Video de Raúl sobre como cuidar eucaliptos en interior
+        Enlace: https://www.youtube.com/watch?v=S6xNDVYBU1k
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: Carla
+Apellidos: Muñiz Testón
+FNacimiento: 2001-04-03
+LNacimiento:
+    LNombre: Oviedo
+    Coordenadas:
+        Longitud: 43.356923
+        Latitud: -5.867880
+        Altitud: 242
+LResidencia:
+    LNombre: Valencia
+    Coordenadas:
+        Longitud: 39.4077643
+        Latitud: -0.4315506
+        Altitud: 285
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Carla sobre Corgi corriendo
+        Enlace: corgi_corriendo.png
+    Fotografía:
+        Descripción: Foto de perfil de Carla sobre Corgi corriendo
+        Enlace: corgi_sonriendo.png
+Vídeos:
+Comentario: Estudiante de Derecho
+
+Nombre: Luis Manuel
+Apellidos: Solares García
+FNacimiento: 2002-09-03
+LNacimiento:
+    LNombre: Pola de Laviana
+    Coordenadas:
+        Longitud: 43.252652
+        Latitud: -5.574053
+        Altitud: 285
+LResidencia:
+    LNombre: Salamanca
+    Coordenadas:
+        Longitud: 40.9634372
+        Latitud: -5.6867216
+        Altitud: 20
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Luisma sobre Goku
+        Enlace: goku.png
+Vídeos:
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: Israel
+Apellidos: Solís Iglesias
+FNacimiento: 2002-08-03
+LNacimiento:
+    LNombre: Villa
+    Coordenadas:
+        Longitud: 43.328117
+        Latitud: -5.721802
+        Altitud: 199
+LResidencia:
+    LNombre: Andorra
+    Coordenadas:
+        Longitud: 42.5421978
+        Latitud: 1.457612
+        Altitud: 281
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Israel sobre tortugas
+        Enlace: tortugas.png
+Vídeos:
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: Adrián
+Apellidos: Alves Morales
+FNacimiento: 2002-06-08
+LNacimiento:
+    LNombre: Avilés
+    Coordenadas:
+        Longitud: 43.5554436
+        Latitud: -5.9222466
+        Altitud: 20
+LResidencia:
+    LNombre: Málaga
+    Coordenadas:
+        Longitud: 36.7182015
+        Latitud: -4.5193062
+        Altitud: 20
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Alves sobre Final Fantasy XIV
+        Enlace: final_fantasy_1.png
+    Fotografía:
+        Descripción: Foto de portada de Alves sobre el personaje de Final Fantasy XIV
+        Enlace: final_fantasy_2.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Alves sobre gameplay no comentado de Final Fantasy XIV
+        Enlace: https://www.youtube.com/watch?v=rr6LoM9h4xw
+    Vídeo:
+        Descripción: Video de Alves sobre gameplay no comentado del DLC de Final Fantasy XIV
+        Enlace: https://www.youtube.com/watch?v=FB7L6_05UqY
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: David
+Apellidos: Warzynski Abril
+FNacimiento: 2001-08-08
+LNacimiento:
+    LNombre: Villa
+    Coordenadas:
+        Longitud: 43.328117
+        Latitud: -5.721802
+        Altitud: 199
+LResidencia:
+    LNombre: Villaescusa
+    Coordenadas:
+        Longitud: 43.3623236
+        Latitud: -3.8907856
+        Altitud: 218
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de David sobre Sova con arco
+        Enlace: sova.png
+    Fotografía:
+        Descripción: Foto de portada de David sobre Sova de Valorant
+        Enlace: sova_valorant.png
+    Fotografía:
+        Descripción: Foto de muestra de David sobre Sova con arma de fuego
+        Enlace: sova_arma.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de David sobre gameplay no comentado de Sova
+        Enlace: https://www.youtube.com/watch?v=K6FrFhlAKOs
+    Vídeo:
+        Descripción: Video de David sobre gameplay no comentado de Sova 2
+        Enlace: https://www.youtube.com/watch?v=Yp7OcIeo6CU
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: Victor
+Apellidos: Sánchez Martín
+FNacimiento: 2002-04-10
+LNacimiento:
+    LNombre: Vallecas
+    Coordenadas:
+        Longitud: 40.3514257
+        Latitud: -3.6526058
+        Altitud: 199
+LResidencia:
+    LNombre: Madrid
+    Coordenadas:
+        Longitud: 40.4379332
+        Latitud: -3.7495759
+        Altitud: 20
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Victor sobre Nikola Tesla
+        Enlace: nikola_tesla.png
+    Fotografía:
+        Descripción: Foto de portada de Victor sobre Nikola Tesla apoyado
+        Enlace: nikola_tesla_apoyado.png
+    Fotografía:
+        Descripción: Foto de muestra de Victor sobre Nikola Tesla con bombilla
+        Enlace: nikola_tesla_bombilla.png
+Vídeos:
+    Vídeo:
+        Descripción: Video documental de Victor sobre Nikola Tesla
+        Enlace: https://www.youtube.com/watch?v=x4hh2FhUzyQ
+Comentario: Estudiante de Ingeniería Industrial
+
+Nombre: Guillermo
+Apellidos: Pulido Fernández
+FNacimiento: 2002-08-10
+LNacimiento: 
+    LNombre: Avilés
+    Coordenadas:
+        Longitud: 43.5554436
+        Latitud: -5.9222466
+        Altitud: 20
+LResidencia:
+    LNombre: Barcelona
+    Coordenadas:
+        Longitud: 41.3926467
+        Latitud: 2.0701499
+        Altitud: 20
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Guillermo sobre Yuumi de carga
+        Enlace: yuumi.png
+    Fotografía:
+        Descripción: Foto de portada de Guillermo sobre Yuumi
+        Enlace: yuumi_cerca.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Guillermo sobre gameplay no comentado de Yuumi
+        Enlace: https://www.youtube.com/watch?v=N9K717CSljE
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: Raquel
+Apellidos: Suárez Álvarez
+FNacimiento: 2002-04-09
+LNacimiento:
+    LNombre: Oviedo
+    Coordenadas:
+        Longitud: 43.3694855
+        Latitud: -5.8661673
+        Altitud: 242
+LResidencia:
+    LNombre: Lisboa
+    Coordenadas:
+        Longitud: 38.7436214
+        Latitud: -9.1952225
+        Altitud: 25
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Raquel sobre Wanda Maximoff
+        Enlace: wanda.png
+    Fotografía:
+        Descripción: Foto de portada de Raquel sobre Wanda y Visión
+        Enlace: wandavision.png
+    Fotografía:
+        Descripción: Foto de muestra de Raquel sobre la Bruja Escarlata
+        Enlace: scarletwitch.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Raquel sobre el trailer de Wandavision
+        Enlace: https://www.youtube.com/watch?v=UuhqbcMNrME
+Comentario: Estudiante de módulo en Informática
+
+Nombre: Carlos
+Apellidos: Díez Fernández
+FNacimiento: 2002-04-09
+LNacimiento:
+    LNombre: Oviedo
+    Coordenadas:
+        Longitud: 43.3862411
+        Latitud: -5.8311886
+        Altitud: 242
+LResidencia:
+    LNombre: Catalunya
+    Coordenadas:
+        Longitud: 41.686789
+        Latitud: 0.6249296
+        Altitud: 242
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Carlos sobre un zorro
+        Enlace: zorro.png
+    Fotografía:
+        Descripción: Foto de portada de Carlos sobre un zorro mirando al sol
+        Enlace: zorro_mirando_al_sol.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Carlos sobre la zorrita Juniper
+        Enlace: https://www.youtube.com/watch?v=j_Ps9pugPl4
+    Vídeo:
+        Descripción: Video de Carlos sobre el rescate de la zorrita Arizona
+        Enlace: https://www.youtube.com/watch?v=hHwcHhLmLzw
+Comentario: Estudiante de Ingeniería Informática
+
+Nombre: Antonio
+Apellidos: Castro Álvarez
+FNacimiento: 2002-09-09
+LNacimiento:
+    LNombre: Avilés
+    Coordenadas: 
+        Longitud: 43.5454341
+        Latitud: -5.9390375
+        Altitud: 20
+LResidencia:
+    LNombre: Cádiz
+    Coordenadas:
+        Longitud: 36.4719901
+        Latitud: -6.3643009
+        Altitud: 20
+Fotografías:
+    Fotografía:
+        Descripción: Foto de perfil de Antonio sobre El Jincho
+        Enlace: el_jincho.png
+Vídeos:
+    Vídeo:
+        Descripción: Video de Antonio sobre una canción de El Jincho
+        Enlace: https://www.youtube.com/watch?v=rHi7yNAf_xE
+Comentario: Estudiante de Ingeniería Informática

@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTMl realizado para la Tarea 1 del Ejercicio 3 de Computación en el cliente" />
+	<meta name ="keywords" content ="html, css, ecmascript, javascript, calculadora milán" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+    <title>Calculadora Milán</title>
+    <link rel="stylesheet" type="text/css" href="CalculadoraMilan.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->   
+    <header>        
+        <h1>CALCULADORA BÁSICA</h1>
+    </header>
+    <main>
+        <section>
+            <h2>MILÁN</h2>
+            <label for="pantalla">Valor introducido</label>
+            <input type="text" value="OFF" id="pantalla" readonly>
+        </section>
+        <input type="button" value="ON/C" onclick="calculadora.onC()">
+        <input type="button" value="CE" onclick="calculadora.borrar()">
+        <input type="button" value="+/-" onclick="calculadora.cambioDeSigno()">
+        <input type="button" value="√" onclick="calculadora.raizCuadrada()">
+        <input type="button" value="%" onclick="calculadora.porcentaje()">
+        
+        <input type="button" value="7" onclick="calculadora.digitos(7)">
+        <input type="button" value="8" onclick="calculadora.digitos(8)">
+        <input type="button" value="9" onclick="calculadora.digitos(9)">
+        <input type="button" value="x" onclick="calculadora.multiplicacion()">
+        <input type="button" value="÷" onclick="calculadora.division()">
+
+        <input type="button" value="4" onclick="calculadora.digitos(4)">
+        <input type="button" value="5" onclick="calculadora.digitos(5)">
+        <input type="button" value="6" onclick="calculadora.digitos(6)">
+        <input type="button" value="-" onclick="calculadora.resta()">
+        <input type="button" value="MRC" onclick="calculadora.mrc()">
+
+        <input type="button" value="1" onclick="calculadora.digitos(1)">
+        <input type="button" value="2" onclick="calculadora.digitos(2)">
+        <input type="button" value="3" onclick="calculadora.digitos(3)">
+        <input type="button" value="+" onclick="calculadora.suma()">
+        <input type="button" value="M-" onclick="calculadora.mMenos()">
+
+        <input type="button" value="0" onclick="calculadora.digitos(0)">
+        <input type="button" value="." onclick="calculadora.punto()">
+        <input type="button" value="=" onclick="calculadora.igual()">
+        <input type="button" value="M+" onclick="calculadora.mMas()">
+    </main>
+    <script src="CalculadoraMilan.js"></script>
+</body>
+</html>

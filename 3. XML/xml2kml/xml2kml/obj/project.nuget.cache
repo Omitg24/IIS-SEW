@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARXCTPZlnIAKnudZ4F/yxgDNLnq9FgQm2dBqgbicUwJ/zp04hiiIK5GdmdF2/0heQob9975g3oSPTafu+L2E9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omart\\OneDrive\\Documentos\\Clase\\Tercero\\Primer_Semestre\\Software y Estandares para la Web\\Practicas\\3. XML\\xml2kml\\xml2kml\\xml2kml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omart\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

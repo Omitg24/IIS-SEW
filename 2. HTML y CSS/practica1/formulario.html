@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTML que contiene el formulario para inscribirse en cursos" />
+	<meta name ="keywords" content ="formulario, datos, domicilio, experiencia"/>
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+    <title>El Framework Ember.js - Formulario</title>
+    <link rel="shortcut icon" href="multimedia/ember_logo.png"/>
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/formulario.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->    
+    <header>        
+        <h1>Formulario de inscripción</h1>
+        <img alt="Imagen del logo de Ember Learning" src="multimedia/ember_learning.png"/>
+        <!-- Panel de navegación de la web -->
+        <nav>
+            <a title = "Acceda a la página de Inicio" accesskey="I" tabindex="1" href="index.html">Inicio</a>
+            <a title = "Acceda a la página de Características generales" accesskey="C" tabindex="2" href="caracteristicas.html">Características</a>
+            <a title = "Acceda a la página de Versiones" accesskey="V" tabindex="3" href="versiones.html">Versiones</a>
+            <a title = "Acceda a la página de Ventajas y Desventajas" accesskey="D" tabindex="4" href="ventajasydesventajas.html">Ventajas y desventajas</a>
+            <a title = "Acceda a la página de Comparaciones con otros Frameworks" accesskey="O" tabindex="5" href="comparaciones.html">Comparaciones</a>
+            <a title = "Acceda a la página de Aprendizaje" accesskey="A" tabindex="6" href="aprendizaje.html">Aprendizaje</a>
+            <a title = "Acceda al formulario de Inscripción" accesskey="F" tabindex="7" href="formulario.html">Formulario</a>
+            <a title = "Acceda a la página de Otras referencias" accesskey="R" tabindex="8" href="referencias.html">Otras referencias</a>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Inscripción</h2>
+            <section> 
+                <h3>Darse de alta</h3>               
+                <p>Cubriendo el siguiente formulario, se le buscará plaza en los cursos que se encuentran en la base de datos, estos cursos se encuentran en las páginas de Udemy e Imagina.</p>
+                <p>Los campos con * son obligatorios.</p> 
+            </section>
+            <form name="Datos del usuario">
+                <fieldset>
+                    <legend>Datos personales</legend>
+                    <p><label for="nombre">Nombre* </label><input id="nombre" type="text"></p>
+                    <p><label for="apellidos">Apellidos* </label><input id="apellidos" type="text"></p>
+                    <p><label for="dni">DNI* </label><input id="dni" type="text"></p>
+                    <p><label for="email">Correo electrónico* </label><input id="email" type="email"></p>
+                    <p><label for="fecha">Fecha de nacimiento* </label><input id="fecha" type="date"></p>  
+                    <p><label for="telefono">Número de teléfono </label><input id="telefono" type="tel"></p>
+                    <p>Género* </p>
+                    <p><input id="masculino" type="radio" name="genero" ><label for="masculino">Masculino</label></p>
+                    <p><input id="femenino" type="radio" name="genero"><label for="femenino">Femenino</label></p>
+                    <p><input id="otro" type="radio" name="genero"><label for="otro">Prefiero no decirlo</label></p>      
+                </fieldset>
+                <fieldset>
+                    <legend>Domicilio</legend>
+                    <p><label for="direccion">Dirección* </label><input id="direccion" type="text"></p>
+                    <p><label for="provincia">Provincia* </label><input id="provincia" type="text"></p>
+                    <p><label for="población">Población* </label><input id="población" type="text"></p>
+                    <p><label for="codigo">Código postal* </label><input id="codigo" type="text"></p>
+                </fieldset>
+                <fieldset>
+                    <legend>Experiencia previa</legend>            
+                    <p>¿Tiene experiencia previa?*</p>
+                    <p><input id="si" type="radio" name="experiencia" ><label for="si">Sí</label></p>
+                    <p><input id="no" type="radio" name="experiencia"><label for="no">No</label></p>           
+                    <p>Si ha seleccionado "Sí", cubra también el siguiente campo.</p>
+                    <p><label for="formacion">Formación previa: </label><input id="formacion" type="text"></p>
+                    <p><label for="texto">Observaciones:</label></p>
+                    <p>Si tiene algo que quiera aportar, coméntelo abajo.</p>
+                    <p><textarea id="texto" cols="60" rows="5"></textarea></p>
+                </fieldset>
+                <p><input type="submit" value="Enviar formulario"></p>
+            </form>   
+        </article>            
+    </main>
+
+    <footer>
+        <h2>Bibliografía</h2>        
+        <p>
+            <a title="Acceda a la web de Udemy" href="https://www.udemy.com/topic/emberjs/?persist_locale&locale=es_ES">Udemy</a> 
+            <a title="Acceda a la web de Imagina" href="https://imaginaformacion.com/cursos/curso-emberjs">Imagina</a>
+        </p>
+    </footer>
+</body>
+</html>

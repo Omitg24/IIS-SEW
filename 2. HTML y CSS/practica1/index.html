@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTML que contiene una información base sobre el framework Ember.js" />
+	<meta name ="keywords" content ="framework, ember.js, definición, ejemplos, historia, ideas" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+    <title>El Framework Ember.js - Inicio</title>
+    <link rel="shortcut icon" href="multimedia/ember_logo.png"/>
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->        
+    <header>        
+        <h1>El framework Ember.js</h1>
+        <img alt="Imagen del logo de Ember" src="multimedia/ember_logo.png"/>
+        <!-- Panel de navegación de la web -->
+        <nav>
+            <a title = "Acceda a la página de Inicio" accesskey="I" tabindex="1" href="index.html">Inicio</a>
+            <a title = "Acceda a la página de Características generales" accesskey="C" tabindex="2" href="caracteristicas.html">Características</a>
+            <a title = "Acceda a la página de Versiones" accesskey="V" tabindex="3" href="versiones.html">Versiones</a>
+            <a title = "Acceda a la página de Ventajas y Desventajas" accesskey="D" tabindex="4" href="ventajasydesventajas.html">Ventajas y desventajas</a>
+            <a title = "Acceda a la página de Comparaciones con otros Frameworks" accesskey="O" tabindex="5" href="comparaciones.html">Comparaciones</a>
+            <a title = "Acceda a la página de Aprendizaje" accesskey="A" tabindex="6" href="aprendizaje.html">Aprendizaje</a>
+            <a title = "Acceda al formulario de Inscripción" accesskey="F" tabindex="7" href="formulario.html">Formulario</a>
+            <a title = "Acceda a la página de Otras referencias" accesskey="R" tabindex="8" href="referencias.html">Otras referencias</a>
+        </nav>
+    </header>
+    
+    <main>
+        <!-- Articulo sobre información base del framework -->
+        <article>
+            <h2>Información general</h2>
+                <section>
+                    <h3>Definición</h3>
+                    <p>Es un framework front-end escrito en JavaScript orientado al desarrollo de proyectos de modo ágil y productivo y que puedan ser mantenidos a largo plazo, como por ejemplo, aplicaciones web o móviles. Está basado en la arquitectura MVC (Modelo-Vista-Controlador) y cuenta con un ecosistema de herramientas que se extienden más allá de lo imaginable gracias al aporte de muchas personas.</p>
+                    <p>Al igual que muchos otros marcos front-end populares, es una aplicación "SPA" o de una sola página, por lo que en lugar de recargar todo el contenido a medida que navega a cada página nueva en un sitio (con pantallas en blanco mientras espera a que se cargue la página siguiente), la aplicación se carga una vez y después de eso, todo es "mágicamente" ágil y rápido.</p>
+                </section>
+
+                <section>
+                    <h3>Ejemplos de su uso</h3>
+                    <p>
+                        Si quiere ver aplicaciones de Ember, lo puede hacer a través de <a title="Aplicaciones de Ember.js" href="https://emberjs.com/learn/examples/">Ember Docs</a>.
+                        <br>
+                        Hay que destacar que grandes compañías utilizan este framework, entre ellas: 
+                    </p>
+                    <ul>
+                        <li>Microsoft.</li>
+                        <li>LinkedIn.</li>
+                        <li>Netflix.</li>
+                        <li>Twitch.</li>
+                        <li>Apple.</li>
+                        <li>Square.</li>                
+                    </ul>
+                    <p>Para ver la lista completa de las compañías, puede acceder mediante su <a title="Lista de compañías" href="https://emberjs.com/ember-users/">página oficial</a>.</p>
+                </section>
+                
+                <section>
+                    <h3>Su historia</h3>
+                    <p>Ember.js nació en diciembre de 2011 surgiendo del renombramiento del framework <a title="Pagina web de SproutCore" href="https://sproutcore.com/">SproutCore</a> 2.0, de cara a reducir la confusión entre dicho framework ir la biblioteca de widgets de SproutCore 1.0. Fue creado por Yehuda Katz, miembro de los equipos centrales de jQuery, Ruby on Rails y SproutCore, y, como en muchos de sus otros proyectos, Katz aboga por la convención sobre la configuración, en inglés (<a title="Definición de convention over configuration" href="https://en.wikipedia.org/wiki/Convention_over_configuration">convention over configuration</a>).</p>
+                    <figure>
+                        <img alt="Imagen del logo de SproutCore" src="multimedia/sproutcore_logo.png"/>
+                        <figcaption>Logo de SproutCore</figcaption>
+                    </figure>
+                    <p>Si quiere saber más sobre la historia de Ember, <a title="Presione para acceder al documental" href="https://www.youtube.com/watch?v=Cvz-9ccflKQ">aquí</a> podrá ver un documental de 25 minutos sobre la historia y el proceso de creación de este framework, el cual se basa, en gran medida, en entrevistas a los co-fundadores de Ember, el ya mencionado Yehuda Katz y Tom Dale.</p>
+                    <figure>
+                        <img alt="Imagen de Yehuda Katz" src="multimedia/yehuda_katz.jpg"/>
+                        <figcaption>Yehuda Katz</figcaption>
+                    </figure>
+                </section>
+            </article>
+            
+        <article>
+            <h2>Ideas de su diseño</h2>
+            <p>En base a los comentarios del equipo desarrollador de Ember, éste se encuentra fundamentado en 4 ideas o pilares fundamentales.</p>
+            <ul>
+                <li>Enfoque a aplicaciones web ambiciosas. Ember se propone brindar una solución integral al problema de la aplicación del lado del cliente</li>
+                <li>Más productivo desde el primer momento. Ember es un componente de un conjunto de herramientas que funcionan juntas para proporcionar una pila de desarrollo.</li>
+                <li>Estabilidad sin estancamiento. Esta es la idea de que la compatibilidad con versiones anteriores es importante y se puede mantener mientras se sigue innovando y evolucionando el marco.</li>
+                <li>Previsión de futuros estándares web. Ember adoptó los estándares en torno a JavaScript y la web, incluidas las promesas, los componentes web y la sintaxis de ES6. Yehuda Katz es miembro del TC39, comité responsable de las futuras versiones del lenguaje JavaScript.</li>
+            </ul>
+        </article>
+    </main>
+    
+    <footer>
+        <h2>Bibliografía</h2>
+        <p>
+            <a title="Acceda a la web de Wikipedia" href="https://en.wikipedia.org/wiki/Ember.js">Wikipedia</a> 
+            <a title="Acceda a la web de CiberNinjaS" href="https://ciberninjas.com/por-que-aprender-ember/">CiberNinjaS</a> 
+            <a title="Acceda a la web de IfGeekThen" href="https://ifgeekthen.nttdata.com/es/consejos-para-aprender-programar-con-ember-js">IfGeekThen</a> 
+            <a title="Acceda a la web de StateFull" href="https://statefull.medium.com/ember-js-el-framework-8d77b43b10b2">StateFull</a>
+        </p>         
+    </footer>
+</body>
+</html>

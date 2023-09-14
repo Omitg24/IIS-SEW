@@ -1,0 +1,104 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 1 del Ejercicio 13
+      de la práctica de 
+      Computación en la nube
+***********************************/
+/* Selector Specificity: (0, 0, 1) */
+body{
+  /*color por defecto*/
+  background-color: #ffbaba;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+main {
+  /*color hereda de body*/
+  background-color: #5c2222;  
+  border-radius: 1.5em;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+article {
+  /*color hereda de body*/
+  background-color: #9d3e3e;
+  border-radius: 1.5em;
+  border-width: 0.5em;
+  border-style: solid;
+  border-color: #606060;
+  padding: 2em;
+  width:60vw; 
+  height:40vw;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+section {
+  /*color hereda de body*/
+  background-color: #ae4f4f;
+  border-radius: 1.5em;
+  border-width: 0.5em;
+  border-color: #000000;
+  border-style: solid;
+  padding: 2em;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h1 {
+  font: 3em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h2 {
+  font: 2em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color : #cecece;
+  /*background-color hereda de header*/
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h3 {
+  font: 1.5em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color : #cecece;
+  /*background-color hereda de header*/
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h4 {
+  font: 1em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color : #cecece;
+  /*background-color hereda de header*/
+}
+
+/* Selector Specificity: (0, 0, 1) */
+p, li, label {
+  font: 1.25em Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 0.5em;
+  color : #cecece;
+  /*background-color hereda de main*/
+}
+
+/* Selector Specificity: (0, 0, 1) */
+pre {
+  font-size: 1.1em;
+  color : #cecece;
+  /*background-color hereda de main*/
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input {  
+  color : #cecece;
+  /*background-color hereda de main*/
+}

@@ -1,0 +1,28 @@
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.exe
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.deps.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.runtimeconfig.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.runtimeconfig.dev.json
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.csproj.AssemblyReference.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.AssemblyInfoInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.AssemblyInfo.cs
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.csproj.CoreCompileInputs.cache
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.dll
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.pdb
+F:\Ingenieria Informatica\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.genruntimeconfig.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.exe
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.deps.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.runtimeconfig.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.runtimeconfig.dev.json
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\bin\Debug\netcoreapp3.1\xml2svg.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.csproj.AssemblyReference.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.AssemblyInfoInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.AssemblyInfo.cs
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.csproj.CoreCompileInputs.cache
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.dll
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.pdb
+C:\Users\omart\OneDrive\Documentos\Clase\Tercero\Primer_Semestre\Software y Estandares para la Web\Practicas\3. XML\xml2svg\xml2svg\obj\Debug\netcoreapp3.1\xml2svg.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "xml2svg": {
+      "commandName": "Project",
+      "commandLineArgs": "SocialNetwork.xml SocialNetwork.svg"
+    }
+  }
+}

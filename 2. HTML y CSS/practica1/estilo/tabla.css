@@ -1,0 +1,39 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+Documento que contiene el estilo
+(color, tamaño, bordes, etc) de la
+tabla presente en uno de los html
+de la página.
+***********************************/
+/*Selector Specificity: (0, 0, 1)*/
+table {
+  /*color hereda de body*/
+  background-color: rgb(150, 150, 150);
+  border-width: 0.25em;
+  border-radius: 1em;  
+  border-style: solid;
+  border-color: black;  
+  margin: 0.5em;  
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+table th{
+  /*color hereda de body*/
+  background-color: rgb(243, 123, 123);
+  border-radius: 0.75em;  
+  border-width: 0.15em;
+  border-style: solid;
+  border-color: black;
+  padding: 0.4em;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+table td {
+  /*color hereda de body*/
+  background-color: rgb(181, 181, 181);
+  border-radius: 0.75em;  
+  border-width: 0.15em;
+  border-style: solid;
+  border-color: black;
+  padding: 0.4em;
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "xml2html": {
+      "commandName": "Project",
+      "commandLineArgs": "SocialNetwork.xml SocialNetwork.html"
+    }
+  }
+}

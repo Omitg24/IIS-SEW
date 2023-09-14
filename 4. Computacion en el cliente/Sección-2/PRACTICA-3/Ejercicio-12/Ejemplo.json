@@ -1,0 +1,536 @@
+{
+    "persona": {
+      "datos": {
+        "nombre": "Omar",
+        "apellidos": "Teixeira González",
+        "fnacimiento": "2002-03-24",
+        "lnacimiento": {
+          "lnombre": "Oviedo",
+          "coordenadas": {
+            "longitud": 43.356923,
+            "latitud": -5.86788,
+            "altitud": 242
+          }
+        },
+        "lresidencia": {
+          "lnombre": "Madrid",
+          "coordenadas": {
+            "longitud": 40.4253205,
+            "latitud": -3.7127347,
+            "altitud": 205
+          }
+        },
+        "fotografias": {
+          "fotografia": [
+            {
+              "enlace": "husky_adulto.png"
+            },
+            {
+              "enlace": "golden_cachorro.png"
+            },
+            {
+              "enlace": "husky_cachorro.png"
+            },
+            {
+              "enlace": "golden_adulto.png"
+            }
+          ]
+        },
+        "videos": {
+          "video": [
+            {
+              "enlace": "https://www.youtube.com/shorts/WTpyXOKXoN0"
+            },
+            {
+              "enlace": "https://www.youtube.com/shorts/FVz9IiBqlgY"
+            }
+          ]
+        },
+        "comentario": "Estudiante de Ingeniería Informática"
+      },
+      "persona": [
+        {
+          "datos": {
+            "nombre": "Alba",
+            "apellidos": "Francos Ablanedo",
+            "fnacimiento": "2002-06-14",
+            "lnacimiento": {
+              "lnombre": "Oviedo",
+              "coordenadas": {
+                "longitud": 43.356923,
+                "latitud": -5.86788,
+                "altitud": 242
+              }
+            },
+            "lresidencia": {
+              "lnombre": "Madrid",
+              "coordenadas": {
+                "longitud": 40.4253205,
+                "latitud": -3.7127347,
+                "altitud": 205
+              }
+            },
+            "fotografias": {
+              "fotografia": {
+                "enlace": "samoyedo.png"
+              }
+            },
+            "videos": {
+              "video": [
+                {
+                  "enlace": "https://www.youtube.com/shorts/zbFU91cFTjk"
+                },
+                {
+                  "enlace": "https://www.youtube.com/shorts/zT6bNYBxyFs"
+                }
+              ]
+            },
+            "comentario": "Estudiante de Logopedia"
+          },
+          "persona": [
+            {
+              "datos": {
+                "nombre": "Raúl",
+                "apellidos": "Fernández España",
+                "fnacimiento": "2001-04-10",
+                "lnacimiento": {
+                  "lnombre": "Pola de Laviana",
+                  "coordenadas": {
+                    "longitud": 43.252652,
+                    "latitud": -5.574053,
+                    "altitud": 285
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Valencia",
+                  "coordenadas": {
+                    "longitud": 39.4077643,
+                    "latitud": -0.4315506,
+                    "altitud": 285
+                  }
+                },
+                "fotografias": {
+                  "fotografia": {
+                    "enlace": "eucalipto.png"
+                  }
+                },
+                "videos": {
+                  "video": [
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=nbfLumrZhm4"
+                    },
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=b5E1hko05t4"
+                    },
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=S6xNDVYBU1k"
+                    }
+                  ]
+                },
+                "comentario": "Estudiante de Ingeniería Informática"
+              }
+            },
+            {
+              "datos": {
+                "nombre": "Carla",
+                "apellidos": "Muñiz Testón",
+                "fnacimiento": "2001-04-03",
+                "lnacimiento": {
+                  "lnombre": "Oviedo",
+                  "coordenadas": {
+                    "longitud": 43.356923,
+                    "latitud": -5.86788,
+                    "altitud": 242
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Valencia",
+                  "coordenadas": {
+                    "longitud": 39.4077643,
+                    "latitud": -0.4315506,
+                    "altitud": 285
+                  }
+                },
+                "fotografias": {
+                  "fotografia": [
+                    {
+                      "enlace": "corgi_corriendo.png"
+                    },
+                    {
+                      "enlace": "corgi_sonriendo.png"
+                    }
+                  ]
+                },
+                "videos": "",
+                "comentario": "Estudiante de Derecho"
+              }
+            },
+            {
+              "datos": {
+                "nombre": "Luis Manuel",
+                "apellidos": "Solares García",
+                "fnacimiento": "2002-09-03",
+                "lnacimiento": {
+                  "lnombre": "Pola de Laviana",
+                  "coordenadas": {
+                    "longitud": 43.252652,
+                    "latitud": -5.574053,
+                    "altitud": 285
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Salamanca",
+                  "coordenadas": {
+                    "longitud": 40.9634372,
+                    "latitud": -5.6867216,
+                    "altitud": 20
+                  }
+                },
+                "fotografias": {
+                  "fotografia": {
+                    "enlace": "goku.png"
+                  }
+                },
+                "videos": "",
+                "comentario": "Estudiante de Ingeniería Informática"
+              }
+            }
+          ]
+        },
+        {
+          "datos": {
+            "nombre": "Israel",
+            "apellidos": "Solís Iglesias",
+            "fnacimiento": "2002-08-03",
+            "lnacimiento": {
+              "lnombre": "Villa",
+              "coordenadas": {
+                "longitud": 43.328117,
+                "latitud": -5.721802,
+                "altitud": 199
+              }
+            },
+            "lresidencia": {
+              "lnombre": "Andorra",
+              "coordenadas": {
+                "longitud": 42.5421978,
+                "latitud": 1.457612,
+                "altitud": 281
+              }
+            },
+            "fotografias": {
+              "fotografia": {
+                "enlace": "tortugas.png"
+              }
+            },
+            "videos": "",
+            "comentario": "Estudiante de Ingeniería Informática"
+          },
+          "persona": [
+            {
+              "datos": {
+                "nombre": "Adrián",
+                "apellidos": "Alves Morales",
+                "fnacimiento": "2002-06-08",
+                "lnacimiento": {
+                  "lnombre": "Avilés",
+                  "coordenadas": {
+                    "longitud": 43.5554436,
+                    "latitud": -5.9222466,
+                    "altitud": 20
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Málaga",
+                  "coordenadas": {
+                    "longitud": 36.7182015,
+                    "latitud": -4.5193062,
+                    "altitud": 20
+                  }
+                },
+                "fotografias": {
+                  "fotografia": [
+                    {
+                      "enlace": "final_fantasy_1.png"
+                    },
+                    {
+                      "enlace": "final_fantasy_2.png"
+                    }
+                  ]
+                },
+                "videos": {
+                  "video": [
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=rr6LoM9h4xw"
+                    },
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=FB7L6_05UqY"
+                    }
+                  ]
+                },
+                "comentario": "Estudiante de Ingeniería Informática"
+              }
+            },
+            {
+              "datos": {
+                "nombre": "David",
+                "apellidos": "Warzynski Abril",
+                "fnacimiento": "2001-08-08",
+                "lnacimiento": {
+                  "lnombre": "Villa",
+                  "coordenadas": {
+                    "longitud": 43.328117,
+                    "latitud": -5.721802,
+                    "altitud": 199
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Villaescusa",
+                  "coordenadas": {
+                    "longitud": 43.3623236,
+                    "latitud": -3.8907856,
+                    "altitud": 218
+                  }
+                },
+                "fotografias": {
+                  "fotografia": [
+                    {
+                      "enlace": "sova.png"
+                    },
+                    {
+                      "enlace": "sova_valorant.png"
+                    },
+                    {
+                      "enlace": "sova_arma.png"
+                    }
+                  ]
+                },
+                "videos": {
+                  "video": [
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=K6FrFhlAKOs"
+                    },
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=Yp7OcIeo6CU"
+                    }
+                  ]
+                },
+                "comentario": "Estudiante de Ingeniería Informática"
+              }
+            },
+            {
+              "datos": {
+                "nombre": "Victor",
+                "apellidos": "Sánchez Martín",
+                "fnacimiento": "2002-04-10",
+                "lnacimiento": {
+                  "lnombre": "Vallecas",
+                  "coordenadas": {
+                    "longitud": 40.3514257,
+                    "latitud": -3.6526058,
+                    "altitud": 199
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Madrid",
+                  "coordenadas": {
+                    "longitud": 40.4379332,
+                    "latitud": -3.7495759,
+                    "altitud": 20
+                  }
+                },
+                "fotografias": {
+                  "fotografia": [
+                    {
+                      "enlace": "nikola_tesla.png"
+                    },
+                    {
+                      "enlace": "nikola_tesla_apoyado.png"
+                    },
+                    {
+                      "enlace": "nikola_tesla_bombilla.png"
+                    }
+                  ]
+                },
+                "videos": {
+                  "video": [
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=x4hh2FhUzyQ"
+                    },
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=2nOW8NtM858"
+                    },
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=oESNo52Z-vo"
+                    }
+                  ]
+                },
+                "comentario": "Estudiante de Ingeniería Industrial"
+              }
+            }
+          ]
+        },
+        {
+          "datos": {
+            "nombre": "Guillermo",
+            "apellidos": "Pulido Fernández",
+            "fnacimiento": "2002-08-10",
+            "lnacimiento": {
+              "lnombre": "Avilés",
+              "coordenadas": {
+                "longitud": 43.5554436,
+                "latitud": -5.9222466,
+                "altitud": 20
+              }
+            },
+            "lresidencia": {
+              "lnombre": "Barcelona",
+              "coordenadas": {
+                "longitud": 41.3926467,
+                "latitud": 2.0701499,
+                "altitud": 20
+              }
+            },
+            "fotografias": {
+              "fotografia": [
+                {
+                  "enlace": "yuumi.png"
+                },
+                {
+                  "enlace": "yuumi_cerca.png"
+                }
+              ]
+            },
+            "videos": {
+              "video": {
+                "enlace": "https://www.youtube.com/watch?v=N9K717CSljE"
+              }
+            },
+            "comentario": "Estudiante de Ingeniería Informática"
+          },
+          "persona": [
+            {
+              "datos": {
+                "nombre": "Raquel",
+                "apellidos": "Suárez Álvarez",
+                "fnacimiento": "2002-04-09",
+                "lnacimiento": {
+                  "lnombre": "Oviedo",
+                  "coordenadas": {
+                    "longitud": 43.3694855,
+                    "latitud": -5.8661673,
+                    "altitud": 242
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Lisboa",
+                  "coordenadas": {
+                    "longitud": 38.7436214,
+                    "latitud": -9.1952225,
+                    "altitud": 25
+                  }
+                },
+                "fotografias": {
+                  "fotografia": [
+                    {
+                      "enlace": "wanda.png"
+                    },
+                    {
+                      "enlace": "wandavision.png"
+                    },
+                    {
+                      "enlace": "scarletwitch.png"
+                    }
+                  ]
+                },
+                "videos": {
+                  "video": {
+                    "enlace": "https://www.youtube.com/watch?v=UuhqbcMNrME"
+                  }
+                },
+                "comentario": "Estudiante de módulo en Informática"
+              }
+            },
+            {
+              "datos": {
+                "nombre": "Carlos",
+                "apellidos": "Díez Fernández",
+                "fnacimiento": "2002-04-09",
+                "lnacimiento": {
+                  "lnombre": "Oviedo",
+                  "coordenadas": {
+                    "longitud": 43.3862411,
+                    "latitud": -5.8311886,
+                    "altitud": 242
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Catalunya",
+                  "coordenadas": {
+                    "longitud": 41.686789,
+                    "latitud": 0.6249296,
+                    "altitud": 242
+                  }
+                },
+                "fotografias": {
+                  "fotografia": [
+                    {
+                      "enlace": "zorro.png"
+                    },
+                    {
+                      "enlace": "zorro_mirando_al_sol.png"
+                    }
+                  ]
+                },
+                "videos": {
+                  "video": [
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=j_Ps9pugPl4"
+                    },
+                    {
+                      "enlace": "https://www.youtube.com/watch?v=hHwcHhLmLzw"
+                    }
+                  ]
+                },
+                "comentario": "Estudiante de Ingeniería Informática"
+              }
+            },
+            {
+              "datos": {
+                "nombre": "Antonio",
+                "apellidos": "Castro Álvarez",
+                "fnacimiento": "2002-09-09",
+                "lnacimiento": {
+                  "lnombre": "Avilés",
+                  "coordenadas": {
+                    "longitud": 43.5454341,
+                    "latitud": -5.9390375,
+                    "altitud": 20
+                  }
+                },
+                "lresidencia": {
+                  "lnombre": "Cádiz",
+                  "coordenadas": {
+                    "longitud": 36.4719901,
+                    "latitud": -6.3643009,
+                    "altitud": 20
+                  }
+                },
+                "fotografias": {
+                  "fotografia": {
+                    "enlace": "el_jincho.png"
+                  }
+                },
+                "videos": {
+                  "video": {
+                    "enlace": "https://www.youtube.com/watch?v=rHi7yNAf_xE"
+                  }
+                },
+                "comentario": "Estudiante de Ingeniería Informática"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }

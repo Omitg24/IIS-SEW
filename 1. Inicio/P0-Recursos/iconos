@@ -1,0 +1,6 @@
+<!-- la carpeta de recursos gráficos "images" debe estar en el misma carpeta del archivo -->
+<!-- anadir la sección footer dentro del body despues del párrafo -->
+<footer>
+      <img src="images/HTML5.png" alt=" HTML5 Válido!" />
+      <img src="images/CSS3.png"  alt="CSS Válido!"  />
+</footer>

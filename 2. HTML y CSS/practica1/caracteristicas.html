@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>    
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+	<meta name ="author" content ="Omar Teixeira González, UO281847" />
+	<meta name ="description" content ="Documento HTML que contiene las características generales y utilidades del framework Ember.js" />
+	<meta name ="keywords" content ="características, utilidades, conceptos" />
+	<meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+    <title>El Framework Ember.js - Características</title>
+    <link rel="shortcut icon" href="multimedia/ember_logo.png"/>
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+</head>
+
+<body>
+    <!-- Datos con el contenidos que aparece en el navegador -->    
+    <header>        
+        <h1>Características generales de Ember.js</h1> 
+        <img alt="Imagen de las características de Ember" src="multimedia/ember_features.png"/>
+        <!-- Panel de navegación de la web -->
+        <nav>
+            <a title = "Acceda a la página de Inicio" accesskey="I" tabindex="1" href="index.html">Inicio</a>
+            <a title = "Acceda a la página de Características generales" accesskey="C" tabindex="2" href="caracteristicas.html">Características</a>
+            <a title = "Acceda a la página de Versiones" accesskey="V" tabindex="3" href="versiones.html">Versiones</a>
+            <a title = "Acceda a la página de Ventajas y Desventajas" accesskey="D" tabindex="4" href="ventajasydesventajas.html">Ventajas y desventajas</a>
+            <a title = "Acceda a la página de Comparaciones con otros Frameworks" accesskey="O" tabindex="5" href="comparaciones.html">Comparaciones</a>
+            <a title = "Acceda a la página de Aprendizaje" accesskey="A" tabindex="6" href="aprendizaje.html">Aprendizaje</a>
+            <a title = "Acceda al formulario de Inscripción" accesskey="F" tabindex="7" href="formulario.html">Formulario</a>
+            <a title = "Acceda a la página de Otras referencias" accesskey="R" tabindex="8" href="referencias.html">Otras referencias</a>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Utilidades</h2>
+            <p>Ember es un componente de una pila front-end completa, y cuenta con varias utilidades, entre otras:</p>            
+            <ul>
+                <li>Ember-CLI: Tiene como objetivo la ya mencionada frase: (<a title="Definición de convention over configuration" href="https://en.wikipedia.org/wiki/Convention_over_configuration">convention over configuration</a>), de cara a construir herramientas. Una utilidad de la línea de comandos basada en <a title="Para saber más sobre Broccoli" href="https://hacks.mozilla.org/2015/06/es6-in-depth-babel-and-broccoli/">broccoli</a>, y mediante el comando <em>ember new [app_name]</em> se genera una nueva aplicación Ember con el stack por defecto. Entre lo que se incluye: 
+                    <ol>
+                        <li>Una estructura de archivos y directorios.</li>
+                        <li>Un servidor de desarrollo con recarga en vivo.</li>
+                        <li>Un framework de prueba.</li>
+                        <li>Dependencias gestionadas a través de <a title="Para saber más sobre NPM" href="https://en.wikipedia.org/wiki/Npm_(software)">NPM</a>.</li>
+                        <li>Soporte de sintaxis ES6/ES7 mediante <a title="Para saber más sobre Babel" href="https://platzi.com/blog/que-es-babel/">Babel</a>.</li>
+                        <li>Gestión de activos (incluida la combinación, la minimización y el control de versiones).</li>
+                    </ol>
+                </li>
+                <li>Ember Data: Una librería de datos persistentes que proporciona gran parte de las funcionalidades de un mapeo relacional de objetos.</li>
+                <li>Ember Inspector: Es una extensión actualmente disponible para los navegadores web Mozilla Firefox y Google Chrome para depurar aplicaciones Ember. Entre las funcioness se incluyen la capacidad de ver qué plantillas, componentes y vistas se representan actualmente, ver las propiedades de cualquier objeto Ember con una interfaz de usuario que calcula los enlaces y las propiedades calculadas, y acceder a los objetos de la aplicación desde la consola, entre otros.</li>
+                <li>Fastboot: Es un <em>addon</em> creado por el equipo de Ember que otorga a los desarrolladores la habilidad de ejecutar sus aplicaciones en <a title="Para saber más sobre Node.js" href="https://es.wikipedia.org/wiki/Node.js">Node.js</a>. Esta característica permite a los usuarios finales ver HTML y CSS de inmediato, con la descarga de JavaScript en segundo plano y tomando el control una vez que se haya cargado por completo.</li>
+                <li>Liquid Fire: Proporciona soporte de animación para aplicaciones Ember, entre ellas se incluyen transiciones animadas entre rutas y entre modelos dentro de una sola ruta. Un ejemplo sería animar una transición de pantalla para que la nueva pantalla parezca deslizarse desde un borde del navegador.</li>
+            </ul>        
+        </article>  
+        <img alt="Imagen de ejemplo de Ember" src="multimedia/ember_pc.png"/> 
+        <article>
+            <h2>Conceptos Clave</h2>
+            <p>Según los desarrolladores Ember.js cuenta con 5 conceptos clave:</p>
+            <ul>
+                <li>Rutas: El estado de una aplicación está representado por una URL. Cada URL tiene un objeto de ruta correspondiente que controla lo que es visible para el usuario.</li>                
+                <li>Modelos: Cada ruta tiene un modelo asociado, que contiene los datos asociados con el estado actual de la aplicación. Cabe mencionar que la mayoría de las aplicaciones usan una biblioteca de modelos como Ember Data para manejar esto.</li>
+                <li>Plantillas: Las plantillas se utilizan para construir el HTML de la aplicación y se escriben con el lenguaje de plantillas HTMLBars, que es una variación de Handlebars y crea elementos DOM en lugar de una cadena.</li>
+                <li>Componentes: Un componente es una etiqueta HTML personalizada, el comportamiento de éste se implementa usando JavaScript y su apariencia se define usando plantillas, see pueden anidar y pueden comunicarse con sus componentes principales a través de acciones (eventos).</li>
+                <li>Servicios: Los servicios son solo objetos únicos para almacenar datos de larga duración, como sesiones de usuario. Ember también proporciona inyección de dependencia, flujo de datos unidireccional declarativo, seguimiento de propiedades y actualización automática de plantillas.</li>
+            </ul>   
+        </article>                
+    </main>
+
+    <footer>
+        <h2>Bibliografía</h2>
+        <p>
+            <a title="Acceda a la web de Wikipedia" href="https://en.wikipedia.org/wiki/Ember.js">Wikipedia</a>
+        </p>
+    </footer>
+</body>
+</html>

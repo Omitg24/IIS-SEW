@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+	<datos>
+		<nombre>Omar</nombre>
+		<apellidos>Teixeira González</apellidos>
+		<fnacimiento>2002-03-24</fnacimiento>
+		<lnacimiento>
+			<lnombre>Oviedo</lnombre>
+			<coordenadas>
+				<longitud>43.356923</longitud>
+				<latitud>-5.867880</latitud>
+				<altitud>242</altitud>
+			</coordenadas>
+		</lnacimiento>
+		<lresidencia>
+			<lnombre>Madrid</lnombre>
+			<coordenadas>
+				<longitud>40.4253205</longitud>
+				<latitud>-3.7127347</latitud>
+				<altitud>205</altitud>
+			</coordenadas>
+		</lresidencia>
+		<fotografias>
+			<fotografia descripcion="Foto de perfil de Omar sobre Husky adulto">
+				<enlace>husky_adulto.png</enlace>
+			</fotografia>
+			<fotografia descripcion="Foto de portada de Omar sobre Golden retriever cachorro">
+				<enlace>golden_cachorro.png</enlace>				
+			</fotografia>
+			<fotografia descripcion="Foto de muestra de Omar sobre Husky cachorro">
+				<enlace>husky_cachorro.png</enlace>				
+			</fotografia>
+			<fotografia descripcion="Foto de anexo de Omar sobre Golden retriever adulto">
+				<enlace>golden_adulto.png</enlace>				
+			</fotografia>
+		</fotografias>
+		<videos>
+			<video descripcion="Video de Omar sobre  husky cachorro aullando">
+				<enlace>https://www.youtube.com/shorts/WTpyXOKXoN0</enlace>				
+			</video>
+			<video descripcion="Video de Omar sobre  Golden retrievers">
+				<enlace>https://www.youtube.com/shorts/FVz9IiBqlgY</enlace>				
+			</video>
+		</videos>
+		<comentario>Estudiante de Ingeniería Informática</comentario>
+	</datos>
+	<persona>
+		<datos>
+			<nombre>Alba</nombre>
+			<apellidos>Francos Ablanedo</apellidos>
+			<fnacimiento>2002-06-14</fnacimiento>
+			<lnacimiento>
+				<lnombre>Oviedo</lnombre>
+				<coordenadas>
+					<longitud>43.356923</longitud>
+					<latitud>-5.867880</latitud>
+					<altitud>242</altitud>
+				</coordenadas>
+			</lnacimiento>
+			<lresidencia>
+				<lnombre>Madrid</lnombre>
+				<coordenadas>
+					<longitud>40.4253205</longitud>
+					<latitud>-3.7127347</latitud>
+					<altitud>205</altitud>
+				</coordenadas>
+			</lresidencia>
+			<fotografias>
+				<fotografia descripcion="Foto de perfil de Alba sobre Samoyedo">				
+					<enlace>samoyedo.png</enlace>					
+				</fotografia>
+			</fotografias>
+			<videos>
+				<video descripcion="Video de Alba sobre Samoyedo">
+					<enlace>https://www.youtube.com/shorts/zbFU91cFTjk</enlace>
+					
+				</video>
+				<video descripcion="Video de Alba sobre Samoyedo feliz">
+					<enlace>https://www.youtube.com/shorts/zT6bNYBxyFs</enlace>					
+				</video>
+			</videos>
+			<comentario>Estudiante de Logopedia</comentario>
+		</datos>
+		<persona>
+			<datos>
+				<nombre>Raúl</nombre>
+				<apellidos>Fernández España</apellidos>
+				<fnacimiento>2001-04-10</fnacimiento>
+				<lnacimiento>
+					<lnombre>Pola de Laviana</lnombre>
+					<coordenadas>
+						<longitud>43.252652</longitud>
+						<latitud>-5.574053</latitud>
+						<altitud>285</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Valencia</lnombre>
+					<coordenadas>
+						<longitud>39.4077643</longitud>
+						<latitud>-0.4315506</latitud>
+						<altitud>285</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Raúl sobre eucalipto">
+						<enlace>eucalipto.png</enlace>						
+					</fotografia>
+				</fotografias>
+				<videos>
+					<video descripcion="Video de Raúl sobre como cuidar eucaliptos">
+						<enlace>https://www.youtube.com/watch?v=nbfLumrZhm4</enlace>						
+					</video>
+					<video descripcion="Video de Raúl sobre como cuidar eucaliptos en interior">
+						<enlace>https://www.youtube.com/watch?v=b5E1hko05t4</enlace>						
+					</video>
+					<video descripcion="Video de Raúl sobre información sobre los eucaliptos">
+						<enlace>https://www.youtube.com/watch?v=S6xNDVYBU1k</enlace>
+					</video>
+				</videos>
+				<comentario>Estudiante de Ingeniería Informática</comentario>
+			</datos>
+		</persona>
+		<persona>
+			<datos>
+				<nombre>Carla</nombre>
+				<apellidos>Muñiz Testón</apellidos>
+				<fnacimiento>2001-04-03</fnacimiento>
+				<lnacimiento>
+					<lnombre>Oviedo</lnombre>
+					<coordenadas>
+						<longitud>43.356923</longitud>
+						<latitud>-5.867880</latitud>
+						<altitud>242</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Valencia</lnombre>
+					<coordenadas>
+						<longitud>39.4077643</longitud>
+						<latitud>-0.4315506</latitud>
+						<altitud>285</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Carla sobre Corgi corriendo">
+						<enlace>corgi_corriendo.png</enlace>						
+					</fotografia>
+					<fotografia descripcion="Foto de portada de Carla sobre Corgi corriendo">
+						<enlace>corgi_sonriendo.png</enlace>						
+					</fotografia>
+				</fotografias>
+				<videos>					
+				</videos>
+				<comentario>Estudiante de Derecho</comentario>
+			</datos>
+		</persona>
+		<persona>
+			<datos>
+				<nombre>Luis Manuel</nombre>
+				<apellidos>Solares García</apellidos>
+				<fnacimiento>2002-09-03</fnacimiento>
+				<lnacimiento>
+					<lnombre>Pola de Laviana</lnombre>
+					<coordenadas>
+						<longitud>43.252652</longitud>
+						<latitud>-5.574053</latitud>
+						<altitud>285</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Salamanca</lnombre>
+					<coordenadas>
+						<longitud>40.9634372</longitud>
+						<latitud>-5.6867216</latitud>
+						<altitud>20</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Luisma sobre Goku">
+						<enlace>goku.png</enlace>						
+					</fotografia>
+				</fotografias>
+				<videos>
+				</videos>
+				<comentario>Estudiante de Ingeniería Informática</comentario>
+			</datos>
+		</persona>
+	</persona>
+	<persona>
+		<datos>
+			<nombre>Israel</nombre>
+			<apellidos>Solís Iglesias</apellidos>
+			<fnacimiento>2002-08-03</fnacimiento>
+			<lnacimiento>
+				<lnombre>Villa</lnombre>
+				<coordenadas>
+					<longitud>43.328117</longitud>
+					<latitud>-5.721802</latitud>
+					<altitud>199</altitud>
+				</coordenadas>
+			</lnacimiento>
+			<lresidencia>
+				<lnombre>Andorra</lnombre>
+				<coordenadas>
+					<longitud>42.5421978</longitud>
+					<latitud>1.457612</latitud>
+					<altitud>281</altitud>
+				</coordenadas>
+			</lresidencia>
+			<fotografias>
+				<fotografia descripcion="Foto de perfil de Israel sobre tortugas">
+					<enlace>tortugas.png</enlace>					
+				</fotografia>
+			</fotografias>
+			<videos>
+			</videos>
+			<comentario>Estudiante de Ingeniería Informática</comentario>
+		</datos>
+		<persona>
+			<datos>
+				<nombre>Adrián</nombre>
+				<apellidos>Alves Morales</apellidos>
+				<fnacimiento>2002-06-08</fnacimiento>
+				<lnacimiento>
+					<lnombre>Avilés</lnombre>
+					<coordenadas>
+						<longitud>43.5554436</longitud>
+						<latitud>-5.9222466</latitud>
+						<altitud>20</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Málaga</lnombre>
+					<coordenadas>
+						<longitud>36.7182015</longitud>
+						<latitud>-4.5193062</latitud>
+						<altitud>20</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Alves sobre Final Fantasy XIV">
+						<enlace>final_fantasy_1.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de portada de Alves sobre el personaje de Final Fantasy XIV">
+						<enlace>final_fantasy_2.png</enlace>						
+					</fotografia>
+				</fotografias>
+				<videos>
+					<video descripcion="Video de Alves sobre gameplay no comentado de Final Fantasy XIV">
+						<enlace>https://www.youtube.com/watch?v=rr6LoM9h4xw</enlace>
+					</video>
+					<video descripcion="Video de Alves sobre gameplay no comentado del DLC de Final Fantasy XIV">
+						<enlace>https://www.youtube.com/watch?v=FB7L6_05UqY</enlace>
+					</video>
+				</videos>
+				<comentario>Estudiante de Ingeniería Informática</comentario>
+			</datos>
+		</persona>
+		<persona>
+			<datos>
+				<nombre>David</nombre>
+				<apellidos>Warzynski Abril</apellidos>
+				<fnacimiento>2001-08-08</fnacimiento>
+				<lnacimiento>
+					<lnombre>Villa</lnombre>
+					<coordenadas>
+						<longitud>43.328117</longitud>
+						<latitud>-5.721802</latitud>
+						<altitud>199</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Villaescusa</lnombre>
+					<coordenadas>
+						<longitud>43.3623236</longitud>
+						<latitud>-3.8907856</latitud>
+						<altitud>218</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de David sobre Sova con arco">
+						<enlace>sova.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de portada de David sobre Sova de Valorant">
+						<enlace>sova_valorant.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de muestra de David sobre Sova con arma de fuego">
+						<enlace>sova_arma.png</enlace>
+					</fotografia>
+				</fotografias>
+				<videos>
+					<video descripcion="Video de David sobre gameplay no comentado de Sova">
+						<enlace>https://www.youtube.com/watch?v=K6FrFhlAKOs</enlace>						
+					</video>
+					<video descripcion="Video de David sobre gameplay no comentado de Sova 2">
+						<enlace>https://www.youtube.com/watch?v=Yp7OcIeo6CU</enlace>						
+					</video>
+				</videos>
+				<comentario>Estudiante de Ingeniería Informática</comentario>
+			</datos>
+		</persona>
+		<persona>
+			<datos>
+				<nombre>Victor</nombre>
+				<apellidos>Sánchez Martín</apellidos>
+				<fnacimiento>2002-04-10</fnacimiento>
+				<lnacimiento>
+					<lnombre>Vallecas</lnombre>
+					<coordenadas>
+						<longitud>40.3514257</longitud>
+						<latitud>-3.6526058</latitud>
+						<altitud>199</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Madrid</lnombre>
+					<coordenadas>
+						<longitud>40.4379332</longitud>
+						<latitud>-3.7495759</latitud>
+						<altitud>20</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Victor sobre Nikola Tesla">
+						<enlace>nikola_tesla.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de portada de Victor sobre Nikola Tesla apoyado">
+						<enlace>nikola_tesla_apoyado.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de muestra de Victor sobre Nikola Tesla con bombilla">
+						<enlace>nikola_tesla_bombilla.png</enlace>						
+					</fotografia>
+				</fotografias>
+				<videos>
+					<video descripcion="Video documental de Victor sobre Nikola Tesla">
+						<enlace>https://www.youtube.com/watch?v=x4hh2FhUzyQ</enlace>
+					</video>
+					<video descripcion="Video Draw my life de Victor sobre Nikola Tesla">
+						<enlace>https://www.youtube.com/watch?v=2nOW8NtM858</enlace>						
+					</video>
+					<video descripcion="Video de Victor sobre la biografía de Nikola Tesla">
+						<enlace>https://www.youtube.com/watch?v=oESNo52Z-vo</enlace>
+					</video>
+				</videos>
+				<comentario>Estudiante de Ingeniería Industrial</comentario>
+			</datos>
+		</persona>
+	</persona>
+	<persona>
+		<datos>
+			<nombre>Guillermo</nombre>
+			<apellidos>Pulido Fernández</apellidos>
+			<fnacimiento>2002-08-10</fnacimiento>
+			<lnacimiento>
+				<lnombre>Avilés</lnombre>
+				<coordenadas>
+					<longitud>43.5554436</longitud>
+					<latitud>-5.9222466</latitud>
+					<altitud>20</altitud>
+				</coordenadas>
+			</lnacimiento>
+			<lresidencia>
+				<lnombre>Barcelona</lnombre>
+				<coordenadas>
+					<longitud>41.3926467</longitud>
+					<latitud>2.0701499</latitud>
+					<altitud>20</altitud>
+				</coordenadas>
+			</lresidencia>
+			<fotografias>
+				<fotografia descripcion="Foto de perfil de Guillermo sobre Yuumi de carga">
+					<enlace>yuumi.png</enlace>					
+				</fotografia>
+				<fotografia descripcion="Foto de portada de Guillermo sobre Yuumi">
+					<enlace>yuumi_cerca.png</enlace>
+				</fotografia>
+			</fotografias>
+			<videos>
+				<video descripcion="Video de Guillermo sobre gameplay no comentado de Yuumi">
+					<enlace>https://www.youtube.com/watch?v=N9K717CSljE</enlace>					
+				</video>
+			</videos>
+			<comentario>Estudiante de Ingeniería Informática</comentario>
+		</datos>
+		<persona>
+			<datos>
+				<nombre>Raquel</nombre>
+				<apellidos>Suárez Álvarez</apellidos>
+				<fnacimiento>2002-04-09</fnacimiento>
+				<lnacimiento>
+					<lnombre>Oviedo</lnombre>
+					<coordenadas>
+						<longitud>43.3694855</longitud>
+						<latitud>-5.8661673</latitud>
+						<altitud>242</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Lisboa</lnombre>
+					<coordenadas>
+						<longitud>38.7436214</longitud>
+						<latitud>-9.1952225</latitud>
+						<altitud>25</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Raquel sobre Wanda Maximoff">
+						<enlace>wanda.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de portada de Raquel sobre Wanda y Visión">
+						<enlace>wandavision.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de muestra de Raquel sobre la Bruja Escarlata">
+						<enlace>scarletwitch.png</enlace>
+					</fotografia>
+				</fotografias>
+				<videos>
+					<video descripcion="Video de Raquel sobre el trailer de Wandavision">
+						<enlace>https://www.youtube.com/watch?v=UuhqbcMNrME</enlace>						
+					</video>
+				</videos>
+				<comentario>Estudiante de módulo en Informática</comentario>
+			</datos>
+		</persona>
+		<persona>
+			<datos>
+				<nombre>Carlos</nombre>
+				<apellidos>Díez Fernández</apellidos>
+				<fnacimiento>2002-04-09</fnacimiento>
+				<lnacimiento>
+					<lnombre>Oviedo</lnombre>
+					<coordenadas>
+						<longitud>43.3862411</longitud>
+						<latitud>-5.8311886</latitud>
+						<altitud>242</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Catalunya</lnombre>
+					<coordenadas>
+						<longitud>41.686789</longitud>
+						<latitud>0.6249296</latitud>
+						<altitud>242</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Carlos sobre un zorro">
+						<enlace>zorro.png</enlace>
+					</fotografia>
+					<fotografia descripcion="Foto de portada de Carlos sobre un zorro mirando al sol">
+						<enlace>zorro_mirando_al_sol.png</enlace>						
+					</fotografia>
+				</fotografias>
+				<videos>
+					<video descripcion="Video de Carlos sobre la zorrita Juniper">
+						<enlace>https://www.youtube.com/watch?v=j_Ps9pugPl4</enlace>						
+					</video>
+					<video descripcion="Video de Carlos sobre el rescate de la zorrita Arizona">
+						<enlace>https://www.youtube.com/watch?v=hHwcHhLmLzw</enlace>
+					</video>
+				</videos>
+				<comentario>Estudiante de Ingeniería Informática</comentario>
+			</datos>
+		</persona>
+		<persona>
+			<datos>
+				<nombre>Antonio</nombre>
+				<apellidos>Castro Álvarez</apellidos>
+				<fnacimiento>2002-09-09</fnacimiento>
+				<lnacimiento>
+					<lnombre>Avilés</lnombre>
+					<coordenadas>
+						<longitud>43.5454341</longitud>
+						<latitud>-5.9390375</latitud>
+						<altitud>20</altitud>
+					</coordenadas>
+				</lnacimiento>
+				<lresidencia>
+					<lnombre>Cádiz</lnombre>
+					<coordenadas>
+						<longitud>36.4719901</longitud>
+						<latitud>-6.3643009</latitud>
+						<altitud>20</altitud>
+					</coordenadas>
+				</lresidencia>
+				<fotografias>
+					<fotografia descripcion="Foto de perfil de Antonio sobre El Jincho">
+						<enlace>el_jincho.png</enlace>
+					</fotografia>
+				</fotografias>
+				<videos>
+					<video descripcion="Video de Antonio sobre una canción de El Jincho">
+						<enlace>https://www.youtube.com/watch?v=rHi7yNAf_xE</enlace>
+					</video>
+				</videos>
+				<comentario>Estudiante de Ingeniería Informática</comentario>
+			</datos>
+		</persona>
+	</persona>
+</persona>

@@ -1,0 +1,218 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 1 del Ejercicio 7
+      de la práctica de 
+      Computación en la nube
+***********************************/
+/*Selector Specificity: (0, 0, 1)*/
+body {
+  /*color por defecto*/
+  background-color: #808080;  
+  font: 1.025em Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 1em;
+  display: grid; 
+  row-gap: 1.125em;  
+  grid-template-rows: 0.1fr 1fr 0.1fr;
+  grid-template-areas:     
+    "header header header"
+    "main main main"
+    "bib bib bib"
+    ;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+header, main, article, section {
+  /*color hereda de body*/
+  background-color: #bebebe;
+  border-radius: 1em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+footer, nav, h3 {
+  color: #ffffff;
+  background-color: #933030;    
+  border-radius: 0.75em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+header {
+  grid-area: header;  
+  display: grid;
+  grid-template-areas:  
+    "title title title"       
+    ".  headerImage . "
+    "nav nav nav"
+    ;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+main {
+  grid-area: main;
+  padding: 0.25em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+footer {
+  grid-area: bib;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+nav {
+  grid-area: nav;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h1 {
+  color: #ffffff;
+  background-color: #8b0000;  
+  font: 3em 'Courier New', Courier, monospace;
+  border-color: #000000;
+  border-width: 0.1em;
+  border-style: solid;
+  border-radius: 0.45em;
+  grid-area: title;
+  margin: 0.1em;
+  padding: 0.5em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h2 {
+  color: #ffffff;
+  background-color: #6d1010;
+  border-color: #000000;
+  border-width: 0.15em;
+  border-style: solid;
+  border-radius: 0.6em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h3 {
+  border-color: #000000;
+  border-width: 0.2em;
+  border-style: solid;  
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h2, h3 {
+  margin: 0.15em;
+  padding: 0.3em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+p {
+  margin: 0.5em;
+  padding: 0.25em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+figcaption{
+  font-style: italic;
+  margin-left: 2.5em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+img, video {
+  border-radius: 0.875em;
+  margin-left: 2.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  max-width: 100vw;
+  height: auto;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+table {
+  /*color hereda de body*/
+  background-color: #969696;
+  border-width: 0.25em;
+  border-radius: 1em;  
+  border-style: solid;
+  border-color: #000000;  
+  margin: 0.5em;  
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+table th{
+  /*color hereda de body*/
+  background-color: #f37b7b;
+  border-radius: 0.75em;  
+  border-width: 0.15em;
+  border-style: solid;
+  border-color: #000000;
+  padding: 0.4em;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+header img {
+  grid-area: headerImage;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+table td {
+  /*color hereda de body*/
+  background-color: #b5b5b5;
+  border-radius: 0.75em;  
+  border-width: 0.15em;
+  border-style: solid;
+  border-color: #000000;
+  padding: 0.4em;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+footer p{  
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/* Selector Specificity: (0, 0, 2) */
+footer a, nav a  {    
+  color:#ffffff;    
+  /*background-color hereda de footer y nav respectivamente*/
+  font: 1.35em 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  padding: 0.55em;
+}
+
+/* Selector Specificity: (0, 0, 2) */
+nav a {
+  text-decoration: none;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+main a {
+  color:#002952;
+  /*background-color hereda de main*/  
+}
+
+/*Selector Specificity: (0, 1, 1)*/
+input[type="button"] {
+  font: 1.10em 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  font-weight: bold;
+  /*color hereda de body*/
+  background-color: #f37b7b; 
+  border-radius: 0.75em;  
+  border-color: #000000;
+  padding: 0.75em;
+}
+
+/*Selector Specificity: (0, 1, 2)*/
+nav a:hover {
+  /*color hereda de nav a*/
+  background-color: #555555;
+  border-radius: 0.65em;
+}
+
+/*Selector Specificity: (0, 1, 2)*/
+footer a:hover{
+  color: #ffff78;
+  /*background-color hereda de footer*/
+}

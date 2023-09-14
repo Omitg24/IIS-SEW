@@ -1,0 +1,101 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+Documento que contiene el layout de 
+los diferentes html que forman la
+pagina
+***********************************/
+/*Selector Specificity: (0, 0, 1)*/
+body{
+  display: grid; 
+  row-gap: 1.125em;  
+  grid-template-rows: 0.1fr 1fr 0.1fr;
+  grid-template-areas:     
+    "header header header"
+    "main main main"
+    "bib bib bib"
+    ;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+header {
+  grid-area: header;  
+  display: grid;
+  grid-template-areas:  
+    "title title title"       
+    ".  headerImage . "
+    "nav nav nav"
+    ;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+main {
+  grid-area: main;
+  padding: 0.25em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+footer {
+  grid-area: bib;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+nav {
+  grid-area: nav;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h1 {
+  grid-area: title;
+  margin: 0.1em;
+  padding: 0.5em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+h2, h3 {
+  margin: 0.15em;
+  padding: 0.3em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+p {
+  margin: 0.5em;
+  padding: 0.25em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+figcaption {
+  margin-left: 2.5em;
+}
+
+/*Selector Specificity: (0, 0, 1)*/
+img, video {    
+  margin-left: 2.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  max-width: 100vw;
+  height: auto;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+header img {
+  grid-area: headerImage;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+footer p{  
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/*Selector Specificity: (0, 0, 2)*/
+footer a, nav a {
+  padding: 0.55em;
+}

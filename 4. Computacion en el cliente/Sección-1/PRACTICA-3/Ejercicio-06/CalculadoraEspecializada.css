@@ -1,0 +1,127 @@
+/***********************************
+  Omar Teixeira Gonzalez - UO281847
+      Documento CSS que contiene
+      los estilos definidos para
+      la Tarea 2 del Ejercicio 6
+      de la práctica de 
+      Computación en la nube
+***********************************/
+/* Selector Specificity: (0, 0, 1) */
+body{  
+  /*color por defecto*/
+  /*background-color por defecto*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+main {
+  /*color hereda de body*/
+  background-color: #b6b6b6; 
+  padding: 0.9em;
+  border-radius: 1em;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.6em; 
+}
+
+/* Selector Specificity: (0, 0, 1) */
+section {
+  /*color hereda de body*/
+  background-color: #000000; 
+  padding: 1em;
+  border-radius: 1em;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-column: span 4;
+  gap: 0.3em; 
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h1 {
+  font: 3em Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+h2 {
+  font: 2em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: #ffffff;
+  /*background-color hereda de section*/
+  grid-column: span 6;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+label {
+  font: 1.25em 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: #ffffff;
+  /*background-color hereda de section*/
+  grid-column: span 6;
+}
+
+/* Selector Specificity: (0, 0, 1) */
+textarea {
+  font: 2em 'Courier New', Courier, monospace;
+  height: 10em;
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input[type="text"] {
+  font: 3em 'Courier New', Courier, monospace;
+}
+
+/* Selector Specificity: (0, 0, 1), (0, 1, 1) */
+textarea, input[type="text"] {  
+  font-weight: bold;
+  text-align: right;
+  color : #3c3c3c;
+  /*background-color por defecto*/
+  border: none;
+  grid-column: span 6;
+}
+
+/* Selector Specificity: (0, 1, 1) */
+input[type="button"] {
+  font-size: 1.1em;  
+  padding: 1.5em;  
+  border-color: #a1a1a1;
+  border-radius: 0.2em;    
+}
+
+/* Selector Specificity: (0, 1, 2) */
+section input[type="button"] {  
+  font-weight: bold;  
+  /*color hereda de body*/
+  background-color: #a9a9a9;   
+  min-width: 6.5em;
+}
+
+/* Selector Specificity: (0, 2, 1) */
+input[type="button"][value="Enter"],
+input[type="button"][value="0"] {
+  grid-column: span 2;
+}
+
+/* Selector Specificity: (0, 2, 1) */
+input[type="button"][value="0"],
+input[type="button"][value="1"],
+input[type="button"][value="2"],
+input[type="button"][value="3"],
+input[type="button"][value="4"],
+input[type="button"][value="5"],
+input[type="button"][value="6"],
+input[type="button"][value="7"],
+input[type="button"][value="8"],
+input[type="button"][value="9"] {
+  font-size: 1.25em;  
+  font-weight: bold;
+}
+
+/* Selector Specificity: (0, 3, 1) */
+input[type="button"]:enabled:hover {
+  /*color hereda de body*/
+  background-color: #d3d3d3;
+}
